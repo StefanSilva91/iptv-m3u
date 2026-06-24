@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053132
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053129
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053125
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053123
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053118
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053114
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116310
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052884
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116313
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116249
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053120
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052896
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BBC_NEWS.png" group-title="Notícias",BBC News
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116325
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10068467
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052922
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BLOOMBERG TV.png" group-title="Notícias",Bloomberg TV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116329
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNBC.png" group-title="Notícias",CNBC
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116312
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053101
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/7097
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10056229
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/2776
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205407
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/23
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053106
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053099
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053096
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053098
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_AFRICA.png" group-title="Generalistas",RTP África
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053097
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052998
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053100
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional
+http://chinaq.asia:80/movie/antoniosti202025478/antonio372wuif734hdiw/10174633.mp4
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052883
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052993
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040691
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5940
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054378
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054377
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/172
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054376
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/171
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054375
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052989
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040692
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/6554
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054374
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/167
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054372
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054371
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/166
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052986
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040693
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10150657
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10150656
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10150655
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10150654
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10150653
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10150652
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052958
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040702
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10164109
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10164110
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052984
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040694
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052982
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040695
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052954
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119441
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119445
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10117614
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052952
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119442
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119446
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10090463
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10090462
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/4797
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054370
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17335
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054369
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/177
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054368
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/176
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054367
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052995
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040690
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10150651
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052969
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040687
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052956
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caça e Pesca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CACA_PESCA.png" group-title="Desporto",Caça e Pesca
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052946
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MOTORVISION.png" group-title="Desporto",Motorvision
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052949
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116246
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10157955
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053046
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053042
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053040
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053036
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053028
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5847
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055043
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17317
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5477
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055041
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5298
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055040
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116343
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053031
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5901
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055030
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055028
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/231
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055027
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055029
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/232
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10055025
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN 4K
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10048419
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053021
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119456
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053015
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116156
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053022
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053034
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053109
+#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053110
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053095
+#EXTINF:-1 tvg-id="TVIRealityCamara1.pt" tvg-name="TVI Reality Câmara 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_1.png" group-title="Entretenimento",TVI Reality Câmara 1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119454
+#EXTINF:-1 tvg-id="TVIRealityCamara2.pt" tvg-name="TVI Reality Câmara 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_2.png" group-title="Entretenimento",TVI Reality Câmara 2
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119453
+#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119451
+#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119452
+#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052882
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5536
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054875
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10041071
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054874
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/133
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054873
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205476
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17137
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/132
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054872
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel 4K
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10048334
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054251
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052940
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052942
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116209
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119455
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História
+http://chinaq.asia:80/movie/antoniosti202025478/antonio372wuif734hdiw/10292762.mp4
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052930
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052934
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5907
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054287
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/2747
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054285
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/76
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054284
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116153
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052925
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054553
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054551
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054550
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116257
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052938
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052936
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116295
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052920
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116294
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052921
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5930
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054931
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17381
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054930
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/63
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054929
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205489
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17067
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/62
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054928
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116306
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052919
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/4130
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054958
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5827
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054956
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205488
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/60
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054955
+#EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052918
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052916
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K
+http://chinaq.asia:80/movie/antoniosti202025478/antonio372wuif734hdiw/10093978.mp4
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116207
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052915
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/VH1.png" group-title="Música",VH1
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116138
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053107
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053112
+#EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="Fashion TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FASHION_TV.png" group-title="Lifestyle",Fashion TV FHD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054822
+#EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="Fashion TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FASHION_TV.png" group-title="Lifestyle",Fashion TV HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054820
+#EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="Fashion TV SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FASHION_TV.png" group-title="Lifestyle",Fashion TV SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054819
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova HD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/3290
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205490
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova SD
+http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/39
