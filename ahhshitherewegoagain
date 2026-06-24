@@ -81,6 +81,12 @@ http://ahhshitherewegoagain.sytes.net:2096/9home355/6412783059/780331
 http://ahhshitherewegoagain.sytes.net:2096/9home355/6412783059/780332
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3
 http://ahhshitherewegoagain.sytes.net:2096/9home355/6412783059/780333
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV
+http://ahhshitherewegoagain.sytes.net:2096/9home355/6412783059/780260
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV
+http://ahhshitherewegoagain.sytes.net:2096/9home355/6412783059/780261
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV
+http://ahhshitherewegoagain.sytes.net:2096/9home355/6412783059/780262
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV
 http://ahhshitherewegoagain.sytes.net:2096/9home355/6412783059/780338
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4
