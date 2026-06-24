@@ -1,0 +1,689 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSn6nk_gADQftGyFEeWo0IoiiQnVO_yupNWISaV4OtnL/ts
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfxRGke2goTkLaASETAkQeysjy4ooL69rwRBTAAobFw-/ts
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcA5-a2G915vimnzUr11kW647ksKKPmQA4zHKNCfpoUr/ts
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdhSUvdE0h_xaPZnAONWFn451Lqi_RrxlIniwvSXOGW0/ts
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTWJWut5JSV3g9FN5IRanYpAe7NmFHWD_ujmeZ_YANY9/ts
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCU1q3E8V2brJtt-M3jWecaCVCMsibkjkakf4-EQ1bX74/ts
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC
+http://xworld-blue.com:8080/play/R9JiWODIe1RrlYYlOcXojXx-B_EBn_v2TPlBa5Vjomi_juwG60x-1I6Tud-ZRhKU#.mp4
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcYFpy-I-VsymE-BLjE6f_EYCv98x2c67Tm6Rs0PUOh-/ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSDUtViMKUTBl1nXqVpMNTaZ_H5lpBrqZtfE-9A0K82_/ts
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQslQXPhpGtGuFMKk9jj3eDfMwuFfCldYpIHOvm6A1j-/ts
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTzhTlg4eCu4Vo2sAICGc7hY3RrbTEhTd1A6FPtuYW11/ts
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCa86N0avmj00LVRZ1SVqcmH5XIzstov-HpgMkr9tYvn-/ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfFVrUq6qL3BdgzX_bCsGvAv9Uk-hSGYpxf-9wsuI_7Y/ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCflA5AmhO3vNxG2bCxuBeCfs6QQGaXQUAwE0mcDUaWem/ts
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbGL0OGNku7dITQSdRXyyEeYiv-IDYKYWnP2Q4_w_doE/ts
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCevT5Dql3TAwQ3-vmiHO6Wbu0ofGZ0iUvRTSJI0hYHK-/ts
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVAyRZcUAQg-YyTqTMg6oV49_F1hedoq6yDHB97-ajdf/ts
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYFhQekX8Y12Dckd9viprjfeHDG1PyLLZIDXn1aCBOCi/ts
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSERwTrpDBnhO55YtB6q47Q-MLvuQ2aasJ3GZoY2Or5V/ts
+#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-name="RTP Notícias HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_NOTICIAS.png" group-title="Notícias",RTP Notícias HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTKqhbtIdEOeQCLWImNtMMBYXxycttoudnu-Axu3MOJF/ts
+#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-name="RTP Notícias HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_NOTICIAS.png" group-title="Notícias",RTP Notícias HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXAJHc0I9hAZa5V9ti575ZsP5c_-6Lye42YySbq2G4JU/ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BBC_NEWS.png" group-title="Notícias",BBC News
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCW4qXfwBfTaNHrAvjGao5sgXVfGi1FEfy7oID89ydjnp/ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTgXx78Ps1UV2g560Sp2fsfwzLlEKCCWEcGo5dNcOVaG/ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRYGCbz1IxH_ps8vCrAW3Eqe07GLwXk8mSvg6wmZpCV_/ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb5CR1dF7pgDgQZU8jm4bxV-Z9xjrguAh1tJf5MIQtqI/ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCX97G3L0GmoUICw1-rwko1qywA2Edi5gcqs-QyS7kPtM/ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfJjnmSIC8pZPd5Auuow5oWdCkq1sKDKD-XeUR0CWuFS/ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeV4A_7natNRYPugwb6W1fZf20gk0ygYH2sjljsqlcvr/ts
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCU59nEj9xHEnqqigHyiC0IWFqalDBRrzrqsrLcKhJMV3/ts
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTEJMJIlsj2DnsK8KkfOZjTlcu9DGlkhJnVPY_W4tIwT/ts
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCa9mZ8SRlLBhZc7_Qp9VeEp24h4hPS3n4ifyibiz_dl7/ts
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUuqcT2zTqD5MVC8veEhiK3pKzdLLuhvjfvvsBBnbUW_/ts
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SKY_NEWS.png" group-title="Notícias",Sky News
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdkZaYqfZ92MmWrT0VqtwQpvsjABH6hnSFeq58jWdfaK/ts
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FRANCE_24.png" group-title="Notícias",France 24
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcat_kcxsAbgkhFDSWHSMsoxjRKDRPQqSDJyxKeF7_IQ/ts
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BLOOMBERG TV.png" group-title="Notícias",Bloomberg TV HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcoipmzLgv_6rxqx2zKJJF_Bhg3G_1mSoD8xuW6e4quP/ts
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BLOOMBERG TV.png" group-title="Notícias",Bloomberg TV
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCe2wqsVHkL8Z-u8wL3YqABFnnlMDN1X122VaH6hMV-Ju/ts
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ALJAZEERA.png" group-title="Notícias",Al Jazeera SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZPmh9w_5q_VfVUtOeanl09XQSY4omXIB2SjO04wg-_v/ts
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ALJAZEERA.png" group-title="Notícias",Al Jazeera HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZfC8AUF7p2oL4WQlHkCcMzPdxhWKepcvrp2Phu79zXd/ts
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaWxRXIa9nzB8K6cSv6RR28-M4csMG46hgyMFfxjsVRV/ts
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZZwqKBE3nLEKzL1OtttWf77F0NP20betzXLnZdUmapD/ts
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCW82GHOsb5Hltn-RFs9FmQv58HT7xIgFPjt8ckQb38ZP/ts
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTRkfTWqZHqL67f-U0GUSRxdrUS25hZz6UL5jImaxlWW/ts
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCV0KOk-pHF4COyUm_UxDIKk4CIz77K4aHRrhXlDEz4ZM/ts
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTRHWztYNY-Kh12wJ1sZxHfFNOseSOW5q-EEnqb0iSne/ts
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCV9pWniddXRnSJZ6tNbPULT2id1GcdmID0kDee3MeK8p/ts
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeWTvgr6P8v62_4xled-GtdsESwYkdbF7KmSfb5rXuzX/ts
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCefHJYMscumD6XHPQp2_nGNqE1DzfVerjDCo7GXVLWxN/ts
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_AFRICA.png" group-title="Generalistas",RTP África HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZHRSkPSrNicE_gXtekYS9leR5JypeD4kkjuWCoBCm1U/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYHyNflL55x8PBKN0S3IPeDo7X7k7iJzW5ob0FNtrVHd/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRN02jNFuY4_LYFn-QC9kP5CA8NuJDN5wndGtMoM3I7R/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdMTBwoGi_dD27bR9k_67xTfgmnbZzZIbZ-j929dViy5/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSx3ofMPkX-MPEyc94B_YqQOG8K4DMLcnC1pnrf33GH6/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCX9JLJAM9QWD_-nYif5nqIQoV9LU86EGTAYymYQYb-Py/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCed4iMl96DxhFaV4rITmJWlGOSDp_SjqzRHYI4kIroNk/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUDb_cb978L3godWzzIA6QFycG6wGDRzK9UAtk9M6xt6/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCY7FXslFfzk4eSAXMUWCXwLkaPzXMRWp0gODMPPKxuYP/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCczD9vyGJquMLqcmCpUPlWmEq85U0iPKl1tjcwteg8Yd/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSSj6nlAbuX1kQCtnIN8qC8G2N3daklPK_sBpDNGEX5u/ts
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdenFJSmSO5KwP-HioTDVi9iV2_c8AYn4ryHja5ESAua/ts
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfbJGTXyH9KHQJrzRUjYhOQjG3jOuXC2akWtTBF7pPY3/ts
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTfXug9V_zEhI7RcQZXF4l6hhMEfLA1T_Us3AG046fFI/ts
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUVTMuRHELtP0JV04xTtVGctRmEV6hzkKKH082Wu9T1k/ts
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVLIDAaRotSLtM4QueIVUGvtSvUYTFIT9-1mDzTMhMJ7/ts
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUWMSihixMbQH_14oS5zDEdvD-T6_Lo-dEYZuacquL0l/ts
+#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRTmvnfKEWl090WWnPymbM5alnZtNDvAwrGrKt1BPS_Z/ts
+#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCT09KtnEMECAy0OMrGpEgrt3iudx2nrxeCb-PWP6nocp/ts
+#EXTINF:-1 tvg-id="LocalVisaoTV.pt" tvg-name="Localvisão TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOCALVISÃO_TV.png" group-title="Generalistas",Localvisão TV HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf6Plil8z9Lo1B8bUhLHS4SnCiR0LaldxkOOU4Mj-aBk/ts
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="TV Galicia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_GALICIA.png" group-title="Generalistas",TV Galicia
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCd5cOlaCZJsqVr1kYIO9UgzrNrAkxwRYVnMdBrmOdFDA/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXcxSQ1qh1A4Q850YehyrIhQ6raHor4tYYV-ItdDQ9Ef/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQeGcRgUvrU3Gd66fHgGBebV-ke-09idJ5gSb31Pgjlh/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWlDKCqhXwZQ0KsESsA3UwypNZyLzcPNLnQVGvgyEh9l/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCST4I3pWmqK3QvLdiQnRTeXq3NQqGsSsA2KzZxricHc3/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCST4I3pWmqK3QvLdiQnRTeVMS2v-jSpUOuffDjRTlCrY/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSX9l3Zx8qkfNURsbfv59YkYkxpNXnysOfBJDtQMGz0c/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCW9glVUFO1OgRVQ4gpS4YAz8dY4mSx2nxaL0MrNsf-fy/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCc1pzRIhCm45MAGGSc5dwo5a-F6JRHktf63EOmJeqQ9F/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb9rwvRbQhnOa1hbswG7BXnL1zuScHkgNA5lIHzGIHye/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCV9nMmh1ZMP_Vr9wGU_KPqABxDthJd6fyUcDseBqcyUY/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVBj9MlAY-km1l4wNieZqyZqv0-1NM8ugliQ_fCz5PwF/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbQPbWhrVvKW6a2hI2_S82YW0xJG4JG_9SmTdGRZ1-rB/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRMguVObI7joX_hWR0Sho-vZJXbUS2-jIr0wVwuo5sgz/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcZXYGSjh3cLnCQH3FSjgWWvcanJrji_6rFx5YXU8lf8/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXeI1fe_H5YiomfdzT-tZS6CsHvEpNlyza_fa5IbAXrK/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXA1vzC6frRKQNHJnphtfwJcnjIwCFbPEysDqRhsO7Hl/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVzR44GDZRuOSxOOgOpc7pVHJFpzI77f5AfM5aFKy9WW/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb942TVL9-9Qxa8V9ELZmHfzEEpBK2lRuNR9JPDTSFWu/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTdMCMufSPPUHUt4_wBBhMgZD1BDyF8E-wfnhNV55hkg/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCULumGO-K_eEsnUNxewgUvx7BoTKN3YPh8U3-2QyBSSJ/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfmZBCsKkmmqIng5lJ1yiPJVwlBg3NQoZ8BZS2dKvKpK/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTOdMr-hYYqquWMOpe2dHKk0E3GuF47Y5U0eKYkyeGEN/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcyWuelwcsm3mS2dEKxUS8OPXzPuRGSPddAU352l_fff/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaS6OeDx-SUJMdlTYlcEc65Mf_nK3CdNzveY0amNOZ0b/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRumxy4e5CTM6Zz8KfWwtsqjhRVz-JQ9Negtvg2wvKZu/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXzqHvRPXAT38nZkNRtzph7199ghXyyKW70rGlZUuCt2/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQqdfMEqhIk-qFAFsGdlNpTgsVMWGJCYPeGAMG7LvIHm/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRf9h_lgpxfDEIypq1IOIo2z4cmpJC6mmJWPmdo2Wq-o/ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSSAiZhruV7iOxzo7lqCV8dTviLyQ9JBxiR1zZ1Yuxun/ts
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQ_YYM1due9oQ8lIrAiNZKLVSvtDNrJTPlTCEmpJAZ36/ts
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdCEZj-tfxOA0miWnd-zJ7PeXY_wRUqQOopBCwc2B7a5/ts
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaQfKbtN9LI32KDDrcq9qpSUCKeGqrid3bmMQ1av3zIQ/ts
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCT4ZuWtEXg3oCTl9ERa4ZTC3pEZfRfsjmWwXClMKV82z/ts
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYnGXmCb38d6i9629gh2TCKyfHOS-GXg7b4gN-53i6bF/ts
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCasSFWt85jeDgkZTu6FwNQNpWhyWvPJhcFD-JdRE2Suk/ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWh2DxLI7-_SRjsoRf2xzQa702QhjUcF2QtzQvXX2VCP/ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTXKFUDAakwxxZexYt1UPduUQn7zWL8-zSUUAoeMUxm4/ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQ7xjxPjwv4Zgh2DQoUv0Cr1TEgCbCanbZQQix1XraTy/ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaIm0nsJG1pNEJDwx3dg5aYPx-oHxJckRby8D09qON0E/ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTTho1VnmN1CgTzQu5mlsWInuTRs_JaxhaqP54LEp2Q3/ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTVHlKLLTnKVtGgyO_PAxJ3uB22o-LMO1uXSwv1qLyCJ/ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXJhaGZbVdJgA8u2-7RP-WhwQqRREHzvQhM09UQ4UeH8/ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbIw1I02oRWGP_m9FmkmZ2_vI5s6Lho5f4tEMyiKTWj_/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCayCH6fnaqqqeDaNl3U9YvfE_uQcFOfPHruuLWSBcNIG/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRfwQrbU02cGW8RbKtn2Cn_ST-sbUzoM-nrN7tXBvq73/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUWarIt3Hs2zFdnRnm9CdVanvHJ2-qpWc2qe9y_LHh-t/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCW0ey1wz0HYNKCccfKPL-gzwxfK9153mosES3R9ScchV/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCS-YheNc94CUzsi0rL0ctDUMWfWnA9JaT-OBjX4yXqGd/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYqZotyKppTOk3ijyfDjEALFbfj0NO1qy8qjkhgfzg2u/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRL_z8PDuMHGWg6qNF1HMTJNsuPNgX8nFc9IeiKz_D0D/ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWZ2aeFlay5caqEEsENAs8hZyDrFE0CHSP83dvkoXgwY/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCc-z5206IQkKUsRHluYthmLZl4LPe7358TM5elja74i2/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUEICJzNr5pu-jQWaxtP30_bVaUt9_dyKG9mFQVP5dQr/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTmZxGIisgiNJSHG89cOvF4OzeaeQ52LXOZO0j-Xw15V/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYJfP5Z657RQfGOSlvsxOJCgL2pLyLWZVJod1rpDqsY1/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZ1mAxKy438-3xZ-39-CcCeVEbDuiRRn57q6fNY4XBPT/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQ9AIypscqTkrB5K3EUELIUNN6NNm8P9izf-kyaf-agv/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXOHYpFVcrrqJBvB4CAWwOJpHLKFJNRdi9iLnzZLXW2Y/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVPict8KSh4T67KESuWwBGh2O5ggYV1hl-jQ-TT2Z9qs/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXXes0x0sviD0RlXT-C6kJSxle_SM_rgtD_QksaUih8e/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQdnDzXSRAuLyLNQEnMEPdJzv34l79PUid7Qf0cWZp6J/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWapCNyB7_8s1mR5blPr1wGBQaIsIrzGh3tlQQeyxnuf/ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdjnbPZOc7nQlQJTgbZvJRjMc4xCF0nctiyg7vNVhoRX/ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZMbO9foVvI9pIlU1wkxkM2KAkK6pB1AuF8BNVzHBTZc/ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdT1pAd79zX9v6jfMDr6u3h0y9SLchxARRZo_O6RZh7R/ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCd5B7TH4PUpk0Otl3A1dShKaWcaP90ULlIB1wEYQv5ll/ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQeOPVe9F0RgsQej1evs-YyT5HehMCCQjkoBl7lenhNn/ts
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYhmzWMAGZ7SyMsWGt8xF0YNQF995HXQE_A8eZXYTpy8/ts
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTHFaeRrWWUZ3KLdLUM4c_dMQlpcddkOQJ1Os3FzKz8z/ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbp8BQWmmpE50f5gljSxowpyqqZPSHtT2NV4blDuSEmx/ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdZV6y9VqTbP2IAHKuYzLz_nwTcj_zNTfdxWDfbP1ejf/ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRGLVUPTecFWaEtSDBRVcsueV4ugqFMu_u7nidX2y2CG/ts
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeYWsjGwvNpsabwvSUUPpb6X_LvKm9-WtbGRqMJyNHKV/ts
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSGACLWEQLdoaaf36HYYK3v7pH0vwLwNFNfx9VoxIlEj/ts
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdiA3WVQ84ZmLUSUDTojYNKYJlMGITtV3l1yICv1rP0G/ts
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRkPRNGAg6RlC8d5lWyPUfbLj-RD0vKYvMjWurLw7k4B/ts
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdIKMUoKnVsxjHeRC5H6y-aJ6iKP_jw3xzh_mDbnbzWZ/ts
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcY_qVyx8kXDYPAdNmsVnc6IP-r90ic-Sgl2BvEIpWp7/ts
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUjUYqjG0mifOpE76kh3GC5KyT2LU8_6HvRmJiiZnB4I/ts
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caça e Pesca HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CACA_PESCA.png" group-title="Desporto",Caça e Pesca HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRdeQqbHBJtMATqJC18jSe0cjYsOosxM1KVqmVN6dQie/ts
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caça e Pesca FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CACA_PESCA.png" group-title="Desporto",Caça e Pesca FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRN0mzvs7AqFlg2Q8jRPl2m4FLP1lFIbGmXjiRF6Cjb5/ts
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MOTORVISION.png" group-title="Desporto",Motorvision FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWKWjl7I36B2U5dqDAEx-9MzJzIPqp_3RJx87-96awEw/ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaC3PTQjyxTD0NrKP8Hg9fLFytNMvsmkvcti_fa4XsuK/ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWbH8Ao0FmgXz49XxRIwIVv4xksXJFzC7umm6zx4uiJF/ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCR6IL_O1DUtlrAppPTInM0se9wfGq0c2gxzSI69fuR05/ts
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdvM9QyBMJpk6boPhAWkewCk5swf2r3F1x4Kx_CbsxVZ/ts
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZ41FjOp2EBzLDfaN8bji_Bw3KTHdWFdm3dA4aHdVe59/ts
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYW-xx5L36nNYNPkkG-O6-RVKMzGJD7FsOeetc273uY3/ts
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdl8yhqktGzMu5555dED3mwFHeI8MHV_-MuP2knNx6tb/ts
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXtDP6SW1OiuiNYigmYACrEgl0khwXcoMn_IbV-1NRDj/ts
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWhrH0GeYl4X2vuGamIYNU2L5luKzKIuL2MRUIq5DBrD/ts
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcezbSSok4TflaKkqTPv_1OTjl65_hjwHXQCuFn1rwTD/ts
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXnTRH5dvGrvnF5MybCAACWwwGjzseb0xLMvCC50Gv7j/ts
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTUGc52HxNhWjcHEsh_eDsLSizsrAWhLc0XIL3czAuoW/ts
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeFFm5UFZpcWeGKACfW2EyFI43Eu4T6GFdFKwZ3iTck7/ts
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQTsv1srOPc0ZivbtNVuEeSbhVt0mSH4PgM7wZ7x-bpE/ts
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCX__vK-e0sQhbviNW8AwrRMOyMxkDcU-M6CW1DuajUNy/ts
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYCII2j2Hg33tTEjptRdSY6d71XDHnOZWFgtK-kaBo00/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCat2_8RSGM6ioVyVh2RhThv7bzAsklNmc_faT-SPpNWb/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUsCRCU4ECu13U3RXsxWW7zdsCecNjxguq-ecIrDuogN/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVod1V5Qsjyaq9Wmef98qlme05gXBQAuFSkmuAu5PF9P/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYMp_AquZ7UYUr_7kZL300yL9B74o9Hxu0_T1l8YG0yc/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCd1UzEq1481EYP7miR7V9vBgb66JyU3oCGJnCUebEGi0/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf1Jk3jfaTLNHX1UMCO0ddw8rAVvcnyZIkw2mVUqDqoQ/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRkjLHGGUnfcaG8Fm2qLK3_3_JEj1fDKCW3blxlnUvaS/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaxesJl87_72nGgS0Ki288UFNW9X3I8I9IJ5O_BAKt0j/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCa-fphphVwvJe1IwNzqbZmvOvxQFhZubxvtoAXI9rueh/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCU8ReNttuK-q6jTGlMU5g8NdGCu5N_4-qKdM5a6uFitJ/ts
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXg_wMOhJ0WhqB6kraaBFviyQE2XQj9XvytSGiRYCgjT/ts
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSeCTZv3I2AvJu1DxdFNYGFfX1LTVaHSD4kMuvocqG3p/ts
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcp8JofPdyW6ab92QQCy8tBJHv2srMKeKMSLmBjsDYvN/ts
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaI0lykMJtC6gXmPAWENflTo9xDWGoe3Z8fmCDoolvRp/ts
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXXyT6NiTxzSYolgZ1ipJ2AB9YXMTa0ftrUnJdxorCHa/ts
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQEVECsOWcvEl0twKNalCfaIheuHK_csYevvaNNfBhUd/ts
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSXmLOZrWiOd6ptnOBF252ZsgTep1IbPYaKAECWAg5Lo/ts
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb7ckcE1ytehdubTkz2fpJVa3TVZi1-G5R6PG9bexifX/ts
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf2n9u-nzxK8Dw27QduWDfQT5f4bqgRvWlhZZaYVcg1U/ts
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZ3sM7vUYsVpOWEfeHk2YwIE9T1ahdl-4XFgQ3LHeRJN/ts
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSVkwApYRG48mLEt3uul-6w1llkUu0CHi_7Shv31TgoL/ts
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUi3ivQG_xd8xyD8hiq4xlFAoU_t9FRs3GH-CUT0xgQz/ts
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVTdOS_ByMmgC-vaE0-TBbfZ2jtgRbUCY4r1hvA4M5mc/ts
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfXyyZu3YImU2P8Prt_uG-1OTMImR0L6KyPQin0OpxDL/ts
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaUDpV8-AYZrsuPYFENSm9xS56c2OG2ZzDx_8tfly1PB/ts
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWlx6pm8kssxizbPIyiKzlWD-6ANJrFcP-opLXVNLS6x/ts
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVV26Tk83kU_EYCPdC9rsJCgzcoUJchtJeE5e5t98Iyb/ts
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWSt-HTPiHLLvUGX6WsZ9F9h3-KbG8aUAzGNjUDW0uiy/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYezzmUc-vRAuls1wFh01We6C4I7sKoZ9rPc9M2siZ9Y/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRiSWYzIhvljNwew2Kf0MZVyEcfNc7GQpP6JNdqV8jY0/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbf1R2AdzlVRaubng8ujokQWwRo3OneOgx2C-uPDM9DY/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcaoRDCrHQ3CGuDrzRUIhXcUvc0Su3M8GAOxbES4KaNi/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaUw_zonordtNEkvfDKccpvyevSbR4ltYqqErXfcnuXe/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfIjZTdw4CDQExMMQniTo2DdWHF64t6DJSd73fbBP91H/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZsM5nUDirusVje_RHNh2-fyGZ1dNmTAHxGr48lI-73x/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYUxez2P5I24a0A13pxMD4Kk41AodkABkpkEFz6P706O/ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRWemL7TteQ-pRKg2h5YfnC8B7jAJaSbk-AwwyID5RYW/ts
+#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbXlVFe5K3KG7eIA8whLc_7rmNWAMEJPPmCsVUnZU396/ts
+#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCem5y4rOrUow8XF8IfcuCtTLgiyw5vElJQGuxL_Kbe6b/ts
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf9ehy0gKJxbsdzhH_rMu9hQIXfM9OBMWvohWJWbXq-A/ts
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSiNW5MyjMNlBX8b_9WsIKN-Pm6GGYtNruiErZUQ7OxJ/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara1.pt" tvg-name="TVI Reality Câmara 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_1.png" group-title="Entretenimento",TVI Reality Câmara 1 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVD7AUM5AQ3r-8nntPNWG1b5t076IjHD4fh2aKPovXdb/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara2.pt" tvg-name="TVI Reality Câmara 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_2.png" group-title="Entretenimento",TVI Reality Câmara 2 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCW6PeaVdQH-IZg7LK_c_CA3eIecJDWIj2McPqkdAtv3H/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXPKGlSOGKmfGZ69FJIEIII24Yxfb6Uw8WUmDGTPm-YN/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3 HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCS-SYtMj5kRsvYUsfvlnFESRhjiVRf12Pb6HLENXkUzG/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCW6opEq5Hyb2pCNWkqmReHA9NLPfCeUuHR5An2vll97B/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf5IUTqFJEJodboMV3_aMNIzXvjuwtRXwso2T2SNmaKZ/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWSM4E3yD1XeBafWL5Bvz7SJw5Ut2AvpiOuLkYuLrEje/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYDhIHhMY2pT4tClj2aqxqPfv9_bTMqBc6m7prbXcs6U/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVnrfrAPvSYk1bkaT9OHWzzNmBUJYugts-FNpb9IAiPF/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXUeKgmdiuhOIXRHCyN9JQc-OKQmMpuRaW_7QgEpDOz5/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCa6gOYi3IMa4GpX_QPinvDpxhheDGhFaGMozjX0wuPri/ts
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSgIgSXzyXYA0U7Dn0ZmKVuQyfpGGZGYixqgQRF7-skS/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfpgLi2XSnppnonEI5pDpK8OmKoG8wimytCUbqKu17hc/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRq35FGXSr5xGT50qKIo7M8zXL4Kl2NloFtwjbCAL0Zc/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCc5nr9S-gb4wN-2aPgjxnJJJZAMIRYJGC01ad7YY4ebs/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCU6B4_az1XstZYtURJ6qUuVGGGf9Knl4pMzNjUCUnYmc/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWmisXBC4yto1_RwaSPqCvTBcLHq1TF8MK-It5CLSG7W/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcv6ue1FSs0aqJy8ob_1AjFI1UEpWpFRwkKRNeeh3PjT/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYVvVJXpACtbF77shZGXDvGHAlLOGvL9T-gMofd4pwR_/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVEIQCUSGucx_6XMzKkLX9ZpWIKdmpTMYl6Tf0SloCm7/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdN2guROIQ8V8wQAp3lwO2VME0SD34FW2iAA1A0yQYxi/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTGLS7vX9f9d17Pi-LTAeVPpM4BJx1ja2Zh2Q0-bcZQA/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCceEWlt3pSkPhA5awgCFWwh9tXxrzehjTBIdEbVwjKEg/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbfsDy6R1yKb2dSKdIg4Lz_gRfl7odwWnBd6f3APpcRO/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYfZoOVdy0kWkOLbioGe3MXhavz1k7QVFcdD4DSIPmOp/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWUBVjheB-RUapJcWKLiVh2xLiHK9nv4fUyzDeCf1s4n/ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaI0DTgxUj9DNd88PI5smW83HT-J0fajXZWRm-3LW0tt/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCS_rFclNubZB__na6Gn2J_JSOM_LM41JJHTcloleYmwi/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSvy97oQkTK-5EGoalogCh-z08JDTi_AytnmjZlC_125/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfWzF39cgfdCw2lZ7DHC9KuZZRlhwuemcri7bR-pvRi1/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQYw15UlNr0LOnL2jgCkSkP5-kdYTlRT40Iy3IUDzkpz/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQJ4D-vwPPQ9CekZGNwsm0vmuVWtI0OovKvkNpjmAHkJ/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRx2YjOWjM7G9yNGm6LNnvtfYgp4ilyzeytMVTAQa_C8/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYbbQZqR1mOL_Kluv1fuGu6wt5IDl4Bm9RTbp2pO4uAL/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCc71z1OQxuN6Q1u0AMjaRL-PasPAYPuVNga7g_4gcGRB/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRQDuG9x5b0cABlry3bggZ5R4qgEtrg5CJHk1uIv3DiX/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTwM97w1kH2cBiFanmK-rb2KOvWiTWfRGPg-Q8wM5QT6/ts
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbSPCsKcFjwi8AVZg3A7W5Vu1DSI1cAJBaIJ8zuqPlOH/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcx6eUskD2BnnQsWf6xkngaJyxolYzWmZhXtY3jj3tHU/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVR7R7h9vstZ6bOAfG1uiOBD4tK6qcNqnj3dt4K6mjOV/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCe9M7ZiFhFXJXXNFC_jaDhv3hLHC4BikF5p-5HRHoYSS/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTuqkAP7wYBoc8dgRuucqCHfhywYhFGzw_SSvVYoqiPu/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSULP7ngfWaaXDv-Y-Mz1Y3npqg_6Hza9KAbKl1jM8KR/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQeiERrQGPlRiQtfsEP2m_jKzJZ_cFps0PM-Z-03WUfK/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTu3gWhVnyJOW86u3_a-vMJ06i1iD_in2GHJ1bZKv5h9/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZ07Lm9NfpFfOzf1WQT2jo8WSBwXFmpKd8MCJX4noNMU/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaq4mejT5VLFvCmcW779vks1Nw45aJRGtVkJsBAEaPJM/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVt_8LDLCMV1lPbexzYB2kwlQin5PblxNcxQqL0mg2fM/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf8_52RVDd73lz-qc94Hmt74RC4S6Cjm7Fl8FY2Dn6_E/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeMlKYITgdTvGl13K0YO_gf0lXjrbTAVebcHg39pCBw3/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb6pjWnb9H-fpEUAYmiqSiXPteQ_cBK9EJIyfgD1OCLA/ts
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZuhu_DQ85aP9gCjcvrTtPMY8G3qlNyuri5t1c21ZcyG/ts
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRKOzAMQ4op6cf4pd2rUs_h45CtttUx7Df5L-kryidyX/ts
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZgECW_Yy1nYSj9ss3MFJyUJq-h4IFNbUcf6RgzM7eoq/ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVws21cTdrK9ZjGP5kiTVecrtO9hzka4-0jEskQsDzYG/ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRuvX6E1y7CtcSSAJ_Y_f-WucxOdf9Xf8WsUBuzEwJ7k/ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWu8Qxnlxw2Mu2rSCs1uV0_JLU5leENMMlmb4ycU73vt/ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeq5x7SJQZ1QMyeqncgJqU93-rbG4rju8MsSkhSWhyBL/ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVNEOVSQbQYeOp26NI45uvXY1y7cvYdbEHJTFMkVUIuY/ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCT5I9th0eOlUpH7r0S5lAaA3Syk_MBerMraaJ0KfLvPt/ts
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCShdGn_0lq0IDK0_78zzLDNDgWSeLNfh4RMxerqN7lyI/ts
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZlkox_64pcTBc4hJj3An-IcUP2PUxZhTUGA_93iMFCZ/ts
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVEqnSiWcQYqocXLSWuZ_2ktpX-fgBTvSALkViLuP9P2/ts
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcgnkteEgeKKbrYmjIHQ5YuSdLXnkrbLAGbGCIsOqTfK/ts
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbwG-ExkNcaGyWnxrTJLgUA2Dedbz4R6aGQuxA5UWwKI/ts
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaTtyUfGP-cyo9hwvLfKltMbuKoruKgFXPZ0eA-nKq-b/ts
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXzXSfHtHzc5V2C4nKiSPUR1ddb-FKAAmHyuC-gpCdPP/ts
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb3gi74pePRs2Q7A6p0gu-tYl6-byjCA4Ad-E_lf85Ou/ts
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCS8BTjshQenQCfo1XFm9zNufTPnhQ1zBAcaLsjLiuYXJ/ts
+#EXTINF:-1 tvg-id="Travelxp.pt" tvg-name="Travelxp HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVELXP.png" group-title="Documentários",Travelxp HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCT6fhClsAQLqkCJIRcQkZOmCeLfGpBVBUeuQs9RZNhZF/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWUsbWAQ2L2xivGdUweRYy9bTISMMnOEIKN2Ihv1YdQg/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaE8VTS61Oum3Jo3VjcudIATuhJBGInodrcgjQYwx8h0/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVYPDLt78lpeczW-T3-osF3ZywDpUT1Uj_WOnrcmYrHh/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQP_wEj1hOvvEuhcTVMW-3bpwL5NzwqvfvqXyoTwGZpA/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCelQwpU5hl_fgtKb8RF_MpYgy0laGchHLXyoazzufKZK/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCc2r15o-nzdAkI6bQMSlr8QQmuvcGARZ1nZ0BAjDUEU9/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCedA6ovg96ZZGh0bX2VH9bkNRO1iJewmbDYSXqDM6sus/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQe4s5bbHaQzreMeFlH9UY4-S9pGkSYruOcawiLVChnO/ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTZRWf_9fQyjTA9oZKuKzEOZr8Hsdr1B_d8JXsr8tKME/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaedCWNQjrGXrjRj1DrMKx8bREqC32Rh0shst0Wrc4XW/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXjmHBPhDW_4prpAJxUob2Pwf73YDTE5yhXr4h7aAfjY/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbwpMHlXvvhyMccA8e1EwxWmXAnJEcIW5U8P_Baro8Mo/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaEA7UyZMFds4zDm9xUXXv-JysZjgILkPJq_JnuMuWWh/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXOGDvUuc1jtHXAb4EKcUXRlMMtG-eSp6RhISN4Zo77V/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRuM43vJ4xMXvgIKi20Uh9CuCxNAbesJrbO_4yK-2aPk/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb6IgtruJqAcMDP2YXkchulz1gP7KDnsQShHTT6ssV0n/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCR6UQGweOB4K1BstqUhG-XqNpwGnyuEbhACJ6uMJbo1W/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSIazcGmwiI8gr9bmz9R3vQ6GuEqvy_YmhQyLGJOVjf5/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaIZoTEVFbeTBz5F6yAMA5SK4Ot-OLxQobSSrbCoLPBV/ts
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCV6M3qyF4tuaPWRsgbe_aQe-kiOpjM5E8JJRvZtKzFfE/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQWWzppvSy3N0xvPLzBk39ZLnrJxDQB9YLwo9QErjJs1/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeeEWd42ZBVYB3tqEMZ0HVPjsYI9U3w5l2cgCap5eYZI/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUYc6YE_ZYZ_TKVUW42yTPR-ddlBABZHH-wFBPnkFPFs/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXYmUObKCclLESbLfthHnwQVHN7ByChue4WvuB5BMRSb/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCd4h119PBtRL1UU_FQ1NEBUeC19pFJ6vkKvwtR6bY-fF/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbY350_BmEyVBzXaKuLPiosdg9iu9qoA_YmbM6fQ35I0/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSu-a256jVFwdTndA60GC5p0GPMCiGdm6H1gE6wj1h9u/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbkToYqd6eNiolc3UC9Bla09sVjAQuBHtY3jyZ0-z8MB/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXQCC_ltCDAUS-f-GcqTfh_ORJWaSd-ofEvdCBPacj9o/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCX-QYxJ1MOc70XMTaWcbM_MiPMrW8GzBJEoA4hILzOaU/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRa6u21X1QjbBL0WgqnZws7qCgroeFjJ7iuQ5MW_SHaK/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQH8OLoM84FHD0TgzJUpsgkFRt-AYm5J7sg-K6_Cwbwd/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRNdl-G7Be6rHDuBjr9_1hYlQJToBbk1si1TZwwS4999/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaGf9AWqZYjZEOS6DOx821GYJpLkfQk6UoaisHF9cx6n/ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUTuEXluNaCt9GoWD_eQlxlHAU9eRYFRf8jztawWBZcT/ts
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTHV08N1ArehOlRcvMOxMadYk0UqhHcZIYVkatfFhz0L/ts
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeIGOuZUGBLRTpXJfa0hf-rdDvI6RbIU_N_ZCI6vmX1L/ts
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfzQUFbqd7oJrQ5brer2wy6dTIuBHhOEJzHyjlD4-PTq/ts
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXB0fjdF3-L18KcNDXd-EZhlUZRok0FZpYppyD_xME-4/ts
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWUESRIfYQbPnnaN1hYYI493eAg6euDTe1sG2q2cefTu/ts
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcAd_rBwSzNJLl2N8xj6i35i000P-JeAWoo2sNpufBJv/ts
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdaGZCsgN-PuE6nx-OO3ejEJksuPloIGeloqJDCM7ITO/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVtv-h890Pxq14z2mgRq4GcDqbwAYCk7InJasFxH3MCk/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZgbl16rwfRD_4CsWO_bM_8wOgT90DKLzI4vyuFulWBJ/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbpr1aRFYWiaE530uPkAMaK-CKWaR603Ee630B-NNdz_/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbad5zDmCZOPtUBrL2CkEVTixXM95GY17hV0pGWmb6tv/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCerb5dFje9QB72Wzp3kHstBJ0b-kFkJKG6RCNjbVQzxJ/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYlXulZkzCt_s01CvX48kUqXJ2LOfnBfc5d8rWuM_erl/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfs2_7JTx73xl7sX5KQuzj6_aiPmKx0vC_EV30XgN-Mz/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCc8nnG-F95-DTs5xY2B0LehsDsJTJKtgSZJkB6_hv-lr/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSBfxZbZlwEPCxGNm1UHPJYX91eNy3_dlWXz-h9iWH0R/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdXzC_Y-BNLjI5_YJC5BFUWfEL7g3hKobLXOV7poan0a/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVTaFScdO6Pvu21ItQBVh-X78EhHZnjZ43U-fqZNeLNi/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon HD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVx6JnXuRjPTTBuWcqjKh_J8RJRVFDSXNG7hesqBibnI/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYR8S8PyhS2-oy7Q80A7ReXT1W8EgiAF72xwt9rQ_iP6/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWiJ2ZgUNV6TdM-z2QItGusTyQwfNuDzusmkXFP7SO3a/ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZxmq492uhrTrLDZnUAF3lGKk3zwE480_WzNAVhoPfHH/ts
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWIVyliTLTHcHiczNwLxxXHd2-PQxL6GTKolxs9I9AG3/ts
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCYFI9Fpzkprw-KzQamJHz9t4gboPB8WMDL1ymhEDghq0/ts
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCUM2146SnhO8UhfJIpMRjPL6L4zUBrDnqd17HgT4erEp/ts
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf8p5P2rmPYdvC3wHmmn7R8qd6IA1sRDqLDCpljj-bPK/ts
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCY_MKBjR8oOjP0CXeuBat9NdSmZBb9yfJzqFFXIveSgS/ts
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCaSoQN5ts8kmB610OjjNZDFQ7reCtE4SHNVRRaKRbC0P/ts
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSvGHhAJrDTZCSi406uncmiEJUDElHRhBS8FEQclNNEf/ts
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdDrZ3XPKLcT38RqLdIUfCL4EDyQr7ENTD8z_fAR8Jvu/ts
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher SD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXYCmXhZWAxWikHlquBUi7qkbRwIJ2cQ96eYNzC8fBDh/ts
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher FHD
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdC1AApAu4zWI8HCkUXAwJVkcnzAzvEE_iSuwugPThu6/ts
