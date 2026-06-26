@@ -25,8 +25,6 @@ http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SS4wY3xJ0
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STM59RvoDSz82-qjQLjZW1t
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46ST1H37dtP5VsMvjOTgCWPSL
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRKEYIegqZz42Iraf2ZIEta
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV HD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRo5Es1w60NtsSK1SMWxmuG
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV FHD
@@ -37,14 +35,8 @@ http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SSjL7Jvsm
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STDjGq0sgBgQiCGgq5Jsnd5
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-name="RTP Notícias FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_NOTICIAS.png" group-title="Notícias",RTP Notícias FHD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRZIdIh_JNxvyYpzZuQt70K
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BBC_NEWS.png" group-title="Notícias",BBC News HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRjKXcrgvbNWvVxwCr8nZWU
 #EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQ2ni9hBE-wuo2RxJqyBkkO
-#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="Sky News HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SKY_NEWS.png" group-title="Notícias",Sky News HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQgkilKHtlIQqYczfkKD5GS
-#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNBC.png" group-title="Notícias",CNBC HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRUbp70p7zkuWWF9nIs4tIR
 #EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now FHD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STNcNzJdQ-sCvvb7-E9Vt0g
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News
@@ -223,8 +215,6 @@ http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQ61jLrDh
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STrHfcRXv_ahvx_iYcGRM25
 #EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 FHD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STeECVHAX-wDjhik6Ffgwk8
-#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SR7-MkxkvfFrkPKWt71NYk2
 #EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 HD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRG8UcKuGH0IL4MtvAAdzAl
 #EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 FHD
@@ -235,8 +225,6 @@ http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQmmM8U4K
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRn87oJDGI4O3gx4dCd0Nlp
 #EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV HD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STehVb0joUlkNvSlpYMXX80
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRnYZG1acxAG2Z63djPUgCN
 #EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios HD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SSgiDgBdLeR17DunjoNydF7
 #EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios FHD
@@ -259,34 +247,14 @@ http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STIzy6IXu
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRZ4bQKiBcXEObtsr6WLHWf
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQ8h1l92TBWgYs8wA2WEEOu
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STYybjkr2ldfBPiFzvnc4xF
 #EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STB2vfTy2y6ZTa8k-sJa6Ut
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRVstXgNyGpl2qWPK1uwBUv
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQ8oni8EK0xPbQ7TMBdhzND
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SSo3557q9L_F7BP5GsbB4Sh
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STYf2TDBiaE8qEITwgF_eo9
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SSmAyXxGKRIWq7C4jpNmoCJ
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic SD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQl-HRy0qZGOdmwwBJyYGad
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STLGBwS8VAiiiLPZymOUVKb
-#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STl4346jO4_mgRLXxQkGdM_
 #EXTINF:-1 tvg-id="Historia.pt" tvg-name="História FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História FHD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQlGMM4GyfdsdE3bapJmOEn
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia FHD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQxsiWfsmP3aw8iMbA6Yu6g
 #EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SS0vK8j9ktA0ngKjDQNb-lV
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SQkCIHUHDXbZ-Tudxv0p4BE
 #EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery FHD
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46ST5hgxkT7KaeCtxDWbNRTaN
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel
@@ -299,8 +267,6 @@ http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STqUFnFdt
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SR7vZoMmEdbbRZ5bkYJHhV5
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SRKzbOg2sj2eq7F-p60_MJk
-#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network HD
-http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46SSDDHST477PGVzXT09kfK68
 #EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
 http://verao8h.life:8080/play/QFCrslolsMXkbsOrkmEE5UBFGM6V8d1Y6oynWrN46STGX9Aaluhe394opYrSDE2m
 #EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda
