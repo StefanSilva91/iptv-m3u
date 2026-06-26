@@ -16,15 +16,7 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116310
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052884
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116313
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116249
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053120
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052896
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BBC_NEWS.png" group-title="Notícias",BBC News
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116325
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_INTERNATIONAL.png" group-title="Notícias",CNN International
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10068467
 #EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
@@ -41,8 +33,6 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/7097
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10056229
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/2776
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205407
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News SD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/23
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal
@@ -59,44 +49,16 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053097
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052998
 #EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053100
-#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional
-http://chinaq.asia:80/movie/antoniosti202025478/antonio372wuif734hdiw/10174633.mp4
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052883
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052993
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040691
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 FHD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5940
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 FHD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054378
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054377
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/172
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054376
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 SD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/171
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 SD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054375
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052989
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040692
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 FHD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/6554
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 FHD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054374
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/167
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054372
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 SD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054371
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 SD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/166
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052986
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3
@@ -119,10 +81,6 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052961
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052958
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040702
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 FHD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10164109
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10164110
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052984
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4
@@ -133,38 +91,12 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052982
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10040695
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052954
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119441
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119445
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10117614
 #EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052952
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119442
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119446
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10090463
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10090462
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ FHD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/4797
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ FHD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054370
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17335
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054369
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/177
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054368
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ SD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/176
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ SD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054367
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052995
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
@@ -249,14 +181,6 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053109
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053110
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10053095
-#EXTINF:-1 tvg-id="TVIRealityCamara1.pt" tvg-name="TVI Reality Câmara 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_1.png" group-title="Entretenimento",TVI Reality Câmara 1
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119454
-#EXTINF:-1 tvg-id="TVIRealityCamara2.pt" tvg-name="TVI Reality Câmara 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_2.png" group-title="Entretenimento",TVI Reality Câmara 2
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119453
-#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119451
-#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119452
 #EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva FHD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052882
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
@@ -264,25 +188,17 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5536
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054875
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10041071
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054874
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/133
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054873
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205476
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel HD
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17137
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel SD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/132
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel SD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054872
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel 4K
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10048334
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054251
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052940
 #EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic
@@ -291,8 +207,6 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052942
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10116209
 #EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10119455
-#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História
-http://chinaq.asia:80/movie/antoniosti202025478/antonio372wuif734hdiw/10292762.mp4
 #EXTINF:-1 tvg-id="Historia.pt" tvg-name="História" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10052930
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia
@@ -345,10 +259,6 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054930
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/63
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054929
-#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205489
-#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/17067
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network SD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/62
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network SD
@@ -365,8 +275,6 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054958
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/5827
 #EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054956
-#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205488
 #EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito SD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/60
 #EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito SD
@@ -395,7 +303,5 @@ http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054820
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10054819
 #EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova HD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/3290
-#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova
-http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/10205490
 #EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova SD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova SD
 http://chinaq.asia:80/antoniosti202025478/antonio372wuif734hdiw/39
