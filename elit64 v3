@@ -17,10 +17,6 @@ http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199050
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199051
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199076
-#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199042
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BLOOMBERG TV.png" group-title="Notícias",Bloomberg
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199067
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199016
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória
@@ -43,7 +39,11 @@ http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198994
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198993
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198992
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198986
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198985
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD HD
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199070
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198987
@@ -59,24 +59,16 @@ http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198979
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198989
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198995
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198984
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198983
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198982
+#EXTINF:-1 tvg-id="DAZN6.pt" tvg-name="DAZN 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_6.png" group-title="Desporto",DAZN 6
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198981
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199082
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199034
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199022
-#EXTINF:-1 tvg-id="EleventSports1.pt" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_1.png" group-title="Desporto",Eleven Sports 1
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198986
-#EXTINF:-1 tvg-id="EleventSports2.pt" tvg-name="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_2.png" group-title="Desporto",Eleven Sports 2
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198985
-#EXTINF:-1 tvg-id="EleventSports3.pt" tvg-name="Eleven Sports 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_3.png" group-title="Desporto",Eleven Sports 3
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198984
-#EXTINF:-1 tvg-id="EleventSports4.pt" tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_4.png" group-title="Desporto",Eleven Sports 4
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198983
-#EXTINF:-1 tvg-id="EleventSports5.pt" tvg-name="Eleven Sports 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_5.png" group-title="Desporto",Eleven Sports 5
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198982
-#EXTINF:-1 tvg-id="EleventSports6.pt" tvg-name="Eleven Sports 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_6.png" group-title="Desporto",Eleven Sports 6
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/198981
 #EXTINF:-1 tvg-id="RTPArena.pt" tvg-name="RTP Arena" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ARENA.png" group-title="Desporto",RTP Arena
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199088
 #EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros
@@ -99,20 +91,20 @@ http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199077
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199075
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199072
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199040
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199037
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199039
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199038
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199073
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199036
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199007
-#EXTINF:-1 tvg-id="Fox.pt" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FOX.png" group-title="Cinema e Séries",Fox
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199040
-#EXTINF:-1 tvg-id="FoxComedy.pt" tvg-name="Fox Comedy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FOX_COMEDY.png" group-title="Cinema e Séries",Fox Comedy
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199039
-#EXTINF:-1 tvg-id="FoxCrime.pt" tvg-name="Fox Crime" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FOX_CRIME.png" group-title="Cinema e Séries",Fox Crime
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199038
-#EXTINF:-1 tvg-id="FoxLife.pt" tvg-name="Fox Life" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FOX_LIFE.png" group-title="Cinema e Séries",Fox Life
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199037
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="Fox Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FOX_MOVIES.png" group-title="Cinema e Séries",Fox Movies
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199036
 #EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199019
 #EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical
@@ -135,8 +127,6 @@ http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199018
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199006
 #EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199031
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199003
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199046
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network
@@ -145,8 +135,6 @@ http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199057
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199060
 #EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199020
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV
-http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199071
 #EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199011
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs
@@ -165,3 +153,15 @@ http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199058
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199028
 #EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV.png" group-title="Música",MTV
 http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199025
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199071
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BLOOMBERG TV.png" group-title="Notícias",Bloomberg
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199067
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199042
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199034
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199022
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel
+http://elit64.xyz:2086/ozcan643564/Kbj4stwB8x/199003
