@@ -151,8 +151,6 @@ http://185.160.192.64:80/DAE54374785/DAR65386775/465910
 http://185.160.192.64:80/DAE54374785/DAR65386775/14098
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 HD
 http://185.160.192.64:80/DAE54374785/DAR65386775/14103
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5
-http://185.160.192.64:80/DAE54374785/DAR65386775/85724
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 FHD
 http://185.160.192.64:80/DAE54374785/DAR65386775/14097
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1
