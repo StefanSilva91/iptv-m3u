@@ -1,14 +1,8 @@
 fastrunner.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/fastrunner.m3u
 
-playlist_11_09072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_11_09072026.m3u
-
 playlist_19_09072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_19_09072026.m3u
-
-playlist_48_09072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_48_09072026.m3u
 
 playlist_55_09072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_55_09072026.m3u
