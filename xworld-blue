@@ -35,7 +35,7 @@ http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXPKGlSOGKmfGZ69FJIEIII24Yx
 http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCS-SYtMj5kRsvYUsfvlnFESRhjiVRf12Pb6HLENXkUzG/ts
 #EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher FHD
 http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdC1AApAu4zWI8HCkUXAwJVkcnzAzvEE_iSuwugPThu6/ts
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV FHD
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 FHD
 http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfiSKwboyqQ8WtMn08gxUm-2eMdDj0hX9Z0MWS2ORc8Q/ts
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD
 http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQ1rMFyvftu5YBrpAKWGsSu3yJpYcXm53psZ-KEWAgSl/ts
