@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_23_130720
 playlist_40_13072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_40_13072026.m3u
 
+playlist_41_13072026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_41_13072026.m3u
+
 playlist_8_09072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_8_09072026.m3u
 
