@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 HD
 http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2077016
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 HD
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [1080p] [B]
 http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090197
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 HD
 http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2077015
