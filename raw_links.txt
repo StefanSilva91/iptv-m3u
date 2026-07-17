@@ -4,14 +4,26 @@ https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/fastrunner.m3u
 playlist_19_09072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_19_09072026.m3u
 
-playlist_23_13072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_23_13072026.m3u
+playlist_25_15072026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_25_15072026.m3u
+
+playlist_35_17072026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_35_17072026.m3u
+
+playlist_39_17072026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_39_17072026.m3u
+
+playlist_3_15072026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_3_15072026.m3u
 
 playlist_40_13072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_40_13072026.m3u
 
-playlist_41_13072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_41_13072026.m3u
+playlist_46_17072026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_46_17072026.m3u
+
+playlist_51_17072026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_51_17072026.m3u
 
 playlist_8_09072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_8_09072026.m3u

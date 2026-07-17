@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2077016
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090197
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2077015
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090196
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2077014
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090195
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090194
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090193
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090192
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
+http://16386-incest.tx-4kott.com:80/4bc06afd48/25de8a441d01/2090198
