@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [1080p] [C]
+http://x.cliente.tech:80/53683153/laila122024/1514
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [1080p] [C]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1514
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [1080p] [C]
+http://x.cliente.tech:80/53683153/laila122024/1237812
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [1080p] [C]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1237812
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [1080p] [C+]
+http://x.cliente.tech:80/53683153/laila122024/1523
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [1080p] [C+]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1523
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [1080p] [C+]
+http://x.cliente.tech:80/53683153/laila122024/1526
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [1080p] [C+]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1526
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [720p] [C]
+http://x.cliente.tech:80/53683153/laila122024/68314
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [720p] [C]
+http://x.cliente.tech:80/AndreCTV2/21993409174/68314
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [1080p] [B]
+http://x.cliente.tech:80/53683153/laila122024/1271684
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [1080p] [B]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1271684
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [720p] [C]
+http://x.cliente.tech:80/53683153/laila122024/1271685
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [720p] [C]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1271685
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [1080p] [B]
+http://x.cliente.tech:80/53683153/laila122024/1517
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [1080p] [B]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1517
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [1080p] [C+]
+http://x.cliente.tech:80/53683153/laila122024/1520
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [1080p] [C+]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1520
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [1080p] [B]
+http://x.cliente.tech:80/53683153/laila122024/51993
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [1080p] [B]
+http://x.cliente.tech:80/AndreCTV2/21993409174/51993
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [720p] [C]
+http://x.cliente.tech:80/53683153/laila122024/1530
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [720p] [C]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1530
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [576p] [D]
+http://x.cliente.tech:80/53683153/laila122024/1531
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [576p] [D]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1531
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [1080p] [C+]
+http://x.cliente.tech:80/53683153/laila122024/1529
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [1080p] [C+]
+http://x.cliente.tech:80/AndreCTV2/21993409174/1529

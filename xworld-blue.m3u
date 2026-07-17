@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [1080p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfxRGke2goTkLaASETAkQeysjy4ooL69rwRBTAAobFw-/ts
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [SEM SINAL]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdhSUvdE0h_xaPZnAONWFn451Lqi_RrxlIniwvSXOGW0/ts
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [1080p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCU1q3E8V2brJtt-M3jWecaCVCMsibkjkakf4-EQ1bX74/ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [720p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSDUtViMKUTBl1nXqVpMNTaZ_H5lpBrqZtfE-9A0K82_/ts
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [1080p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCa86N0avmj00LVRZ1SVqcmH5XIzstov-HpgMkr9tYvn-/ts
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCV9pWniddXRnSJZ6tNbPULT2id1GcdmID0kDee3MeK8p/ts
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCeWTvgr6P8v62_4xled-GtdsESwYkdbF7KmSfb5rXuzX/ts
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCefHJYMscumD6XHPQp2_nGNqE1DzfVerjDCo7GXVLWxN/ts
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_AFRICA.png" group-title="Generalistas",RTP África [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZHRSkPSrNicE_gXtekYS9leR5JypeD4kkjuWCoBCm1U/ts
+#EXTINF:-1 tvg-id="LocalVisaoTV.pt" tvg-name="Localvisão TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOCALVISÃO_TV.png" group-title="Generalistas",Localvisão TV [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCf6Plil8z9Lo1B8bUhLHS4SnCiR0LaldxkOOU4Mj-aBk/ts
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVV26Tk83kU_EYCPdC9rsJCgzcoUJchtJeE5e5t98Iyb/ts
+#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCem5y4rOrUow8XF8IfcuCtTLgiyw5vElJQGuxL_Kbe6b/ts
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSiNW5MyjMNlBX8b_9WsIKN-Pm6GGYtNruiErZUQ7OxJ/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara1.pt" tvg-name="TVI Reality Câmara 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_1.png" group-title="Entretenimento",TVI Reality Câmara 1 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCVD7AUM5AQ3r-8nntPNWG1b5t076IjHD4fh2aKPovXdb/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara2.pt" tvg-name="TVI Reality Câmara 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_2.png" group-title="Entretenimento",TVI Reality Câmara 2 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCW6PeaVdQH-IZg7LK_c_CA3eIecJDWIj2McPqkdAtv3H/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3 [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXPKGlSOGKmfGZ69FJIEIII24Yxfb6Uw8WUmDGTPm-YN/ts
+#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCS-SYtMj5kRsvYUsfvlnFESRhjiVRf12Pb6HLENXkUzG/ts
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdC1AApAu4zWI8HCkUXAwJVkcnzAzvEE_iSuwugPThu6/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCfiSKwboyqQ8WtMn08gxUm-2eMdDj0hX9Z0MWS2ORc8Q/ts
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCQ1rMFyvftu5YBrpAKWGsSu3yJpYcXm53psZ-KEWAgSl/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCc1pzRIhCm45MAGGSc5dwo5a-F6JRHktf63EOmJeqQ9F/ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCb9rwvRbQhnOa1hbswG7BXnL1zuScHkgNA5lIHzGIHye/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCcZXYGSjh3cLnCQH3FSjgWWvcanJrji_6rFx5YXU8lf8/ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCXeI1fe_H5YiomfdzT-tZS6CsHvEpNlyza_fa5IbAXrK/ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCWh2DxLI7-_SRjsoRf2xzQa702QhjUcF2QtzQvXX2VCP/ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTXKFUDAakwxxZexYt1UPduUQn7zWL8-zSUUAoeMUxm4/ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTTho1VnmN1CgTzQu5mlsWInuTRs_JaxhaqP54LEp2Q3/ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [SEM SINAL]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTVHlKLLTnKVtGgyO_PAxJ3uB22o-LMO1uXSwv1qLyCJ/ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCdT1pAd79zX9v6jfMDr6u3h0y9SLchxARRZo_O6RZh7R/ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCZMbO9foVvI9pIlU1wkxkM2KAkK6pB1AuF8BNVzHBTZc/ts
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [576p] [D]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCTHFaeRrWWUZ3KLdLUM4c_dMQlpcddkOQJ1Os3FzKz8z/ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCRGLVUPTecFWaEtSDBRVcsueV4ugqFMu_u7nidX2y2CG/ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbp8BQWmmpE50f5gljSxowpyqqZPSHtT2NV4blDuSEmx/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [1080p] [C+]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCSoYjP4hIBQ-bDvuNUu-OMUfiXh_mHiqDyZg61a21dH9/ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [720p] [C]
+http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbjBpxnWucHTSOowp1Oa_5Ex8SHOJxTo97RwW233V-Sr/ts
