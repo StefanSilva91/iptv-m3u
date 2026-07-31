@@ -34,6 +34,9 @@ https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_51_170720
 playlist_8_09072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_8_09072026.m3u
 
+playlist_teste.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_teste.m3u
+
 x.cliente.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/x.cliente.m3u
 
