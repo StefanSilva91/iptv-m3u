@@ -867,6 +867,7 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1613387
 http://x.cliente.tech:80/53683153/laila122024/1271685
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [C]
 http://x.cliente.tech:80/AndreCTV2/21993409174/1271685
+
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [B]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/368058
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [B]
@@ -899,8 +900,11 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107437
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838357
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://xworld-blue.com:8080/play/RLYZQfYaCKlL7m9INYvUCbp8BQWmmpE50f5gljSxowpyqqZPSHtT2NV4blDuSEmx/ts
+
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [B]
-http://zengmedia.xyz:8080/jrBnXZ2zU1/tDSAWfcDv4ceumjb/79588984844844
+http://zengmedia.xyz:8080/jrBnXZ2zU11/tDSAWfcDv4ceumjb1/79588984844844
+
+
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
 http://ip365.cx:80/T5SMCEVX/S7DV9BGN/30789
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
