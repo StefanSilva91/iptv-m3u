@@ -4,38 +4,32 @@ https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/fastrunner.m3u
 playlist_11_31072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_11_31072026.m3u
 
+playlist_12_07082026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_12_07082026.m3u
+
+playlist_13_07082026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_13_07082026.m3u
+
+playlist_15_07082026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_15_07082026.m3u
+
 playlist_18_31072026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_18_31072026.m3u
 
-playlist_20_31072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_20_31072026.m3u
+playlist_1_07082026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_1_07082026.m3u
 
-playlist_22_31072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_22_31072026.m3u
+playlist_7_10082026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_7_10082026.m3u
 
-playlist_25_15072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_25_15072026.m3u
+playlist_9_10082026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_9_10082026.m3u
 
-playlist_31_31072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_31_31072026.m3u
+portugal_tv_1.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/portugal_tv_1.m3u
 
-playlist_35_31072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_35_31072026.m3u
-
-playlist_39_17072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_39_17072026.m3u
-
-playlist_3_15072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_3_15072026.m3u
-
-playlist_51_17072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_51_17072026.m3u
-
-playlist_8_09072026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_8_09072026.m3u
-
-playlist_teste.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_teste.m3u
+portugal_tv_2.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/portugal_tv_2.m3u
 
 x.cliente.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/x.cliente.m3u
