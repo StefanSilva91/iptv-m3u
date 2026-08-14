@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764057
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763973
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/942696
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030811
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030810
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/942697
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030813
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [B]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/323599
+#EXTINF:-1 tvg-id="DAZN6.pt" tvg-name="DAZN 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_6.png" group-title="Desporto",DAZN 6 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763979
+#EXTINF:-1 tvg-id="DAZN6.pt" tvg-name="DAZN 6 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_6.png" group-title="Desporto",DAZN 6 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030817
+#EXTINF:-1 tvg-id="DAZN6.pt" tvg-name="DAZN 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_6.png" group-title="Desporto",DAZN 6 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/323600
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1265943
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caça e Pesca HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CACA_PESCA.png" group-title="Desporto",Caça e Pesca [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764107
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68297
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MOTORVISION.png" group-title="Desporto",Motorvision [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030827
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68415
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764021
+#EXTINF:-1 tvg-id="EleventSports6.pt" tvg-name="Eleven Sports 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_6.png" group-title="Desporto",Eleven Sports 6 [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1126183
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KOMBAT_SPORT.png" group-title="Desporto",Kombat Sport [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68364
+#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68362
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030829
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68403
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764098
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030830
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764094
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68402
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030831
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764096
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68401
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030832
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030834
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68399
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030836
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68332
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763933
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68387
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [FHD] [B]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030838
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [FHD] [B]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68394
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764070
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68393
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [FHD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764075
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030839
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68392
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764076
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764078
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763922
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763925
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030844
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764084
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764086
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/155392
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68274
+#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-name="SIC Novelas FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOVELAS.png" group-title="Entretenimento",SIC Novelas [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1022297
+#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68382
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/806246
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68309
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030853
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel [FHD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763960
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763962
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763995
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764026
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764088
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763999
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763964
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [FHD] [B]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763966
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763950
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763953
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68409
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763938
+#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764029
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_TOP.png" group-title="Música",MCM Top [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764005
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban [HD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764092
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764090
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="VH1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/VH1.png" group-title="Música",VH1 [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68369
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763914
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/1030860
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen [HD] [C]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/68374
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764105
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova [SD] [D]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/763943
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [FHD] [C+]
+http://vpiegtru.tvservice-8k.com:80/65234862/T9BP3D3/764000

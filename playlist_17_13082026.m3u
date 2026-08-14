@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [FHD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178708
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178756
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias [FHD] [B]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178717
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [C]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178792
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178764
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178710
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_AFRICA.png" group-title="Generalistas",RTP África [SD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178712
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178727
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [HD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178793
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV [FHD] [B]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178735
+#EXTINF:-1 tvg-id="EleventSports4.pt" tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_4.png" group-title="Desporto",Eleven Sports 4 [FHD] [C]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178730
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [FHD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178743
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [FHD] [C]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178781
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [HD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178807
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [FHD] [B]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178716
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild [HD] [C]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178770
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia [HD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178767
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel [SD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178773
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [SD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178787
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_POP.png" group-title="Música",MCM Pop [SD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178772
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music [SD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178802
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [SD] [D]
+http://sma12.dalt.site:2052/89XTMRzJ3NWY/PapaRaf51zxcv/178759
