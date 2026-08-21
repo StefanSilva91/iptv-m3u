@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [HD] [C]
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746500
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746499
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746395
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [D]
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746396
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746495
@@ -13,17 +13,15 @@ http://qatarworldcup.xyz:80/4110041579/8414193074/746495
 http://qatarworldcup.xyz:80/4110041579/8414193074/746481
 #EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746394
-#EXTINF:-1 tvg-id="i24NEWS.fr" tvg-name="i24NEWS HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/I24NEWS.png" group-title="Notícias",i24NEWS [HD] [D]
-http://qatarworldcup.xyz:80/4110041579/8414193074/746460
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C+]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746477
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746482
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746484
-#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="TV Globo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",TV Globo [HD] [D]
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="TV Globo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",TV Globo [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746401
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [FHD] [D]
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746497
 #EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746471
@@ -31,65 +29,61 @@ http://qatarworldcup.xyz:80/4110041579/8414193074/746471
 http://qatarworldcup.xyz:80/4110041579/8414193074/746486
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 Monde HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV5_MONDE.png" group-title="Generalistas",TV5 Monde [FHD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746467
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [C]
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746354
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/185896
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [C+]
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746353
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746352
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746356
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [D]
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746343
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746351
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [C]
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746350
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746358
 #EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746357
-#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746348
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746355
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [FHD] [C+]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746347
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [SD] [D]
-http://qatarworldcup.xyz:80/4110041579/8414193074/746345
 #EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KOMBAT_SPORT.png" group-title="Desporto",Kombat Sport [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746342
 #EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746409
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C]
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746411
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [D]
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746372
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [HD] [D]
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746373
 #EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746454
-#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [FHD] [C+]
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [FHD] [B]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746418
 #EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746415
 #EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746405
-#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [HD] [D]
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746417
 #EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746416
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
-http://qatarworldcup.xyz:80/4110041579/8414193074/746406
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [C]
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746452
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746420
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746414
-#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746404
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746440
@@ -105,7 +99,7 @@ http://qatarworldcup.xyz:80/4110041579/8414193074/746492
 http://qatarworldcup.xyz:80/4110041579/8414193074/746489
 #EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746380
-#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment [HD] [D]
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746443
 #EXTINF:-1 tvg-id="Historia.pt" tvg-name="História HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746365
@@ -121,7 +115,7 @@ http://qatarworldcup.xyz:80/4110041579/8414193074/746430
 http://qatarworldcup.xyz:80/4110041579/8414193074/746429
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746431
-#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746428
 #EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746432
@@ -129,13 +123,11 @@ http://qatarworldcup.xyz:80/4110041579/8414193074/746432
 http://qatarworldcup.xyz:80/4110041579/8414193074/746425
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746434
-#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K [SD] [D]
-http://qatarworldcup.xyz:80/4110041579/8414193074/746490
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746433
 #EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746426
-#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [HD] [D]
+#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746424
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_TOP.png" group-title="Música",MCM Top [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746386
@@ -145,13 +137,11 @@ http://qatarworldcup.xyz:80/4110041579/8414193074/746382
 http://qatarworldcup.xyz:80/4110041579/8414193074/746378
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MEZZO.png" group-title="Música",Mezzo [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746379
-#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV.png" group-title="Música",MTV [FHD] [C+]
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV.png" group-title="Música",MTV [FHD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746385
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen [HD] [C]
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen [HD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746456
-#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher [SD] [D]
-http://qatarworldcup.xyz:80/4110041579/8414193074/746442
 #EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova [SD] [D]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746480
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [FHD] [C]
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [HD] [C]
 http://qatarworldcup.xyz:80/4110041579/8414193074/746479

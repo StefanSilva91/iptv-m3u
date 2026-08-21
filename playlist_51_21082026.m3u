@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality [HD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250563
+#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [HD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250560
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment [FHD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250643
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_FICÇÃO.png" group-title="Entretenimento",TVI Ficção [HD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250564
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel [HD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250647
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia [HD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250606
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC [SD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250577
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/1404886
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250645
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250644
+#EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda [SD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250656
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250608
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250662
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [SD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250661
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr [SD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/1080729
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250668
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [SD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250576
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/VH1.png" group-title="Música",VH1 [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250561
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MEZZO.png" group-title="Música",Mezzo [SD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250616
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV.png" group-title="Música",MTV [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250614
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen [HD] [D]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250670
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher [HD] [C]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250589
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [FHD] [C+]
+http://line.mediadisc.xyz:80/92f5ce1560/77a4a5ad4d9b/250618
