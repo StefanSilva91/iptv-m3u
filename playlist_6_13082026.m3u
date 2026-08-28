@@ -17,9 +17,9 @@ http://netromag.com/live/BXM799M/A8J4TUP/1030825.ts
 http://netromag.com/live/BXM799M/A8J4TUP/763983.ts
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/68413.ts
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [HD] [D]
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/763986.ts
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [FHD] [C]
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [FHD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/764066.ts
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/974660.ts
@@ -29,13 +29,13 @@ http://netromag.com/live/BXM799M/A8J4TUP/1028206.ts
 http://netromag.com/live/BXM799M/A8J4TUP/1030788.ts
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/764057.ts
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [C]
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [B]
 http://netromag.com/live/BXM799M/A8J4TUP/763973.ts
 #EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/942696.ts
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [C]
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [B]
 http://netromag.com/live/BXM799M/A8J4TUP/1030811.ts
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [C]
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [B]
 http://netromag.com/live/BXM799M/A8J4TUP/1030810.ts
 #EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/942697.ts
@@ -45,13 +45,11 @@ http://netromag.com/live/BXM799M/A8J4TUP/763979.ts
 http://netromag.com/live/BXM799M/A8J4TUP/1030817.ts
 #EXTINF:-1 tvg-id="DAZN6.pt" tvg-name="DAZN 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_6.png" group-title="Desporto",DAZN 6 [SD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/323600.ts
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [HD] [D]
-http://netromag.com/live/BXM799M/A8J4TUP/1265943.ts
 #EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caça e Pesca HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CACA_PESCA.png" group-title="Desporto",Caça e Pesca [SD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/764107.ts
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [SD] [D]
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/763990.ts
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV [HD] [C]
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/764021.ts
 #EXTINF:-1 tvg-id="EleventSports6.pt" tvg-name="Eleven Sports 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ELEVEN_SPORT_6.png" group-title="Desporto",Eleven Sports 6 [HD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/1126183.ts
@@ -59,15 +57,15 @@ http://netromag.com/live/BXM799M/A8J4TUP/1126183.ts
 http://netromag.com/live/BXM799M/A8J4TUP/68364.ts
 #EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/764098.ts
-#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C+]
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/1030830.ts
 #EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/764094.ts
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [D]
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/1030831.ts
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [D]
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/764096.ts
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [D]
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/68401.ts
 #EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/1030834.ts
@@ -87,27 +85,23 @@ http://netromag.com/live/BXM799M/A8J4TUP/1030838.ts
 http://netromag.com/live/BXM799M/A8J4TUP/68394.ts
 #EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/764070.ts
-#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
-http://netromag.com/live/BXM799M/A8J4TUP/68393.ts
-#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [HD] [C]
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/68301.ts
-#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [FHD] [D]
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [FHD] [C+]
 http://netromag.com/live/BXM799M/A8J4TUP/764075.ts
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [FHD] [C]
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/764076.ts
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [FHD] [D]
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/764078.ts
 #EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break [SD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/763922.ts
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [C]
-http://netromag.com/live/BXM799M/A8J4TUP/763925.ts
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/1030844.ts
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/764084.ts
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [SD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/764086.ts
-#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [HD] [D]
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/1030833.ts
 #EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/68274.ts
@@ -135,10 +129,8 @@ http://netromag.com/live/BXM799M/A8J4TUP/763999.ts
 http://netromag.com/live/BXM799M/A8J4TUP/68375.ts
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [SD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/763964.ts
-#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [FHD] [B]
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [HD] [C]
 http://netromag.com/live/BXM799M/A8J4TUP/763966.ts
-#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
-http://netromag.com/live/BXM799M/A8J4TUP/763953.ts
 #EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon [SD] [D]
 http://netromag.com/live/BXM799M/A8J4TUP/764024.ts
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [HD] [C]

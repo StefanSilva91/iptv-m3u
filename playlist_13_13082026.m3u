@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/1177969
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [SD] [D]
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/1177968
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [SD] [D]
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30792
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30650
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30654
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30795
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/1177967
@@ -17,7 +17,7 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/1177967
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30649
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30759
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [D]
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/198493
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30747
@@ -27,7 +27,7 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/198492
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30854
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30722
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [C]
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30829
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30855
@@ -39,7 +39,7 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30850
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/2313
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30656
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C+]
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30797
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30657
@@ -49,26 +49,24 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30798
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30738
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/193809
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira [HD] [D]
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30799
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30688
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [FHD] [C+]
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [FHD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30784
 #EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="TV Globo FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",TV Globo [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30685
-#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="TV Globo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",TV Globo [HD] [C]
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="TV Globo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",TV Globo [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30783
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [HD] [C]
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/3927
-#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional [HD] [D]
+#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/19005
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30660
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30800
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="TV Galicia FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_GALICIA.png" group-title="Generalistas",TV Galicia [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30742
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 Monde HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV5_MONDE.png" group-title="Generalistas",TV5 Monde [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/21699
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [C]
@@ -91,11 +89,11 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30810
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30704
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [HD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30771
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30707
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30789
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [HD] [C]
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30811
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30693
@@ -105,31 +103,23 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30812
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30702
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30787
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30703
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [HD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30817
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/163983
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [FHD] [C]
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [FHD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/163984
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/2341
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [B]
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30694
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30813
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [FHD] [C+]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30661
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [FHD] [C+]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30801
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [SD] [D]
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30832
 #EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KOMBAT_SPORT.png" group-title="Desporto",Kombat Sport [HD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/21686
-#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV [FHD] [B]
+#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30721
-#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV [FHD] [B]
+#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30828
 #EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30664
@@ -143,21 +133,21 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30761
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30666
 #EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30776
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C+]
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30667
 #EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30668
 #EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30762
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [SD] [D]
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30683
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [SD] [D]
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30806
 #EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30669
 #EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30777
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White [FHD] [C]
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30673
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White [FHD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30764
@@ -165,43 +155,33 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30764
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30779
 #EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30675
-#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30803
-#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/4891
 #EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30677
-#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [HD] [C]
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [FHD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30780
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [FHD] [C+]
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30676
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [FHD] [C+]
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30765
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [FHD] [C+]
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/4892
-#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break [HD] [D]
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30823
 #EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30718
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/21691
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30672
-#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [D]
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30802
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30678
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30804
-#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/4890
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30681
-#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30766
-#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [D]
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30767
-#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [HD] [C]
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30652
 #EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30794
@@ -211,13 +191,9 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30796
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/4942
 #EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30653
-#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/4896
 #EXTINF:-1 tvg-id="TVIRealityCamara1.pt" tvg-name="TVI Reality Câmara 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_1.png" group-title="Entretenimento",TVI Reality Câmara 1 [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/21697
-#EXTINF:-1 tvg-id="TVIRealityCamara3.pt" tvg-name="TVI Reality Câmara 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY_CAMARA_3.png" group-title="Entretenimento",TVI Reality Câmara 3 [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/21695
-#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [HD] [D]
+#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30782
 #EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30679
@@ -225,7 +201,7 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30679
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30781
 #EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30710
-#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild [FHD] [D]
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30790
 #EXTINF:-1 tvg-id="Historia.pt" tvg-name="História FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30715
@@ -233,8 +209,6 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30715
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30822
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30714
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30821
 #EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30724
 #EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC [SD] [D]
@@ -243,18 +217,14 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30831
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30727
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30835
-#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [FHD] [B]
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30728
-#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [FHD] [B]
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30836
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30729
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30837
-#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30734
-#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30841
 #EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30730
 #EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda [SD] [D]
@@ -273,16 +243,10 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/4895
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30731
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30839
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30736
 #EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30843
 #EXTINF:-1 tvg-id="LollyKids.pt" tvg-name="Lolly Kids FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOLLY_KIDS.png" group-title="Crianças",Lolly Kids [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/2716
-#EXTINF:-1 tvg-id="LollyKids.pt" tvg-name="Lolly Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOLLY_KIDS.png" group-title="Crianças",Lolly Kids [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30772
-#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/1227
 #EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/1226
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_TOP.png" group-title="Música",MCM Top [SD] [D]
@@ -291,8 +255,6 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/21689
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30863
 #EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music [SD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/97365
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music [SD] [D]
-http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/2717
 #EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban [HD] [D]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30861
 #EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [SD] [D]
@@ -321,5 +283,5 @@ http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30680
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30805
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [HD] [C]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30726
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [HD] [C]
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [FHD] [C+]
 http://mpfwasvr.msostvip.com:80/HJTQ6AJZ/3CJ1784B/30833

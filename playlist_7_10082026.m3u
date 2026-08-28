@@ -73,19 +73,17 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1440881
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838360
 #EXTINF:-1 tvg-id="NewsNow.pt" tvg-name="Now HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOW.png" group-title="Cinema e Séries",Now [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838368
-#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C]
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107423
 #EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118442
 #EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838337
-#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C]
-http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107422
 #EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118441
 #EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838339
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C]
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107421
 #EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118440
@@ -93,9 +91,9 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118440
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838338
 #EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107420
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C+]
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118439
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C]
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838340
 #EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [B]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107475
@@ -133,9 +131,9 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107486
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/951549
 #EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838354
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107485
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118456
 #EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838353
@@ -143,9 +141,9 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838353
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838431
 #EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838430
-#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [FHD] [C+]
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1069313
-#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [C]
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838425
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107482
@@ -157,8 +155,6 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/122488
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838350
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838349
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C+]
-http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107454
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/368056
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
@@ -175,7 +171,7 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107453
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838446
 #EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ALMA_LUSA.png" group-title="Generalistas",Alma Lusa [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/2033898
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [FHD] [C+]
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107524
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118466
@@ -187,7 +183,7 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107409
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838387
 #EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107528
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [FHD] [C]
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/863881
 #EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1050094
@@ -197,23 +193,23 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838361
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107424
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 Monde HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV5_MONDE.png" group-title="Generalistas",TV5 Monde [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838342
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C+]
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107436
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C+]
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118447
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107435
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118446
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107434
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118445
 #EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [UHD] [B]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1470618
-#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [C+]
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [B]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107495
-#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [C+]
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [B]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118459
 #EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918192
@@ -223,11 +219,11 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918182
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918191
 #EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 [FHD] [B]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918181
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [FHD] [C]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/983567
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [FHD] [C+]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107511
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [FHD] [C+]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118461
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107430
@@ -237,7 +233,7 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838356
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107433
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/148667
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [C+]
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1809290
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107488
@@ -251,13 +247,13 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/712739
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1613387
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107437
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [B]
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/368058
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838357
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [D]
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107493
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [D]
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/122484
 #EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918190
@@ -269,7 +265,7 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918189
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918179
 #EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918188
-#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [C+]
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [B]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1918178
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107522
@@ -279,9 +275,9 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107479
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838390
 #EXTINF:-1 tvg-id="FightNetwork.pt" tvg-name="Fight Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FIGHT_NETWORK.png" group-title="Desporto",Fight Network [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838395
-#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [D]
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107459
-#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [C+]
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/118451
 #EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107438
@@ -291,15 +287,15 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/379382
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838438
 #EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107508
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q [HD] [D]
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838417
-#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-name="SIC Novelas" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOVELAS.png" group-title="Entretenimento",SIC Novelas [FHD] [D]
+#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-name="SIC Novelas" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOVELAS.png" group-title="Entretenimento",SIC Novelas [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1430557
 #EXTINF:-1 tvg-id="SICNovelas.pt" tvg-name="SIC Novelas HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOVELAS.png" group-title="Entretenimento",SIC Novelas [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838439
 #EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107443
-#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [FHD] [D]
+#EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/379384
 #EXTINF:-1 tvg-id="SICCaras.pt" tvg-name="SIC Caras HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_CARAS.png" group-title="Entretenimento",SIC Caras [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838443
@@ -313,9 +309,9 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838334
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1649980
 #EXTINF:-1 tvg-id="VMaisTVI.pt" tvg-name="V+TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/V+TVI.png" group-title="Entretenimento",V+TVI [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838333
-#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [HD] [D]
+#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107411
-#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [HD] [D]
+#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva [SD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/368057
 #EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment [FHD] [C+]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107496
@@ -337,17 +333,17 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107458
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838367
 #EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838347
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel [HD] [C]
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838343
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838406
-#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [FHD] [B]
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107497
 #EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838405
 #EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838415
-#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [D]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838414
 #EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107460
@@ -363,8 +359,6 @@ http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838423
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107514
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1838421
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICK_JR.png" group-title="Crianças",Nick Jr [SD] [D]
-http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/107461
 #EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [HD] [C]
 http://line.8kultradnscloud.ru:80/xjb6zj3hxy/5kc69dvcne/1829495
 #EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [HD] [C]
