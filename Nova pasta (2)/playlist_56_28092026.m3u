@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 HD
+http://asmr4k.world:8080/9932081304/4200945603/358753
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 HD
+http://asmr4k.world:8080/9932081304/4200945603/358754
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC
+http://asmr4k.world:8080/9932081304/4200945603/358764
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI
+http://asmr4k.world:8080/9932081304/4200945603/358781
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3
+http://asmr4k.world:8080/9932081304/4200945603/358755
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal HD
+http://asmr4k.world:8080/9932081304/4200945603/358715
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV
+http://asmr4k.world:8080/9932081304/4200945603/358714
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV
+http://asmr4k.world:8080/9932081304/4200945603/358694
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews HD
+http://asmr4k.world:8080/9932081304/4200945603/358723
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now
+http://asmr4k.world:8080/9932081304/4200945603/358734
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News
+http://asmr4k.world:8080/9932081304/4200945603/358750
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal
+http://asmr4k.world:8080/9932081304/4200945603/358749
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11
+http://asmr4k.world:8080/9932081304/4200945603/358704
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo
+http://asmr4k.world:8080/9932081304/4200945603/358733
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 FHD
+http://asmr4k.world:8080/9932081304/4200945603/355504
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 HD
+http://asmr4k.world:8080/9932081304/4200945603/355505
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://asmr4k.world:8080/9932081304/4200945603/355507
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 FHD
+http://asmr4k.world:8080/9932081304/4200945603/355508
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+http://asmr4k.world:8080/9932081304/4200945603/355509
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://asmr4k.world:8080/9932081304/4200945603/355451
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 HD
+http://asmr4k.world:8080/9932081304/4200945603/355452
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV
+http://asmr4k.world:8080/9932081304/4200945603/358765
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 FHD
+http://asmr4k.world:8080/9932081304/4200945603/355510
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
+http://asmr4k.world:8080/9932081304/4200945603/355511
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 FHD
+http://asmr4k.world:8080/9932081304/4200945603/355512
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 HD
+http://asmr4k.world:8080/9932081304/4200945603/355513
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
+http://asmr4k.world:8080/9932081304/4200945603/355515
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 HD
+http://asmr4k.world:8080/9932081304/4200945603/355453
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 HD
+http://asmr4k.world:8080/9932081304/4200945603/355454
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 HD
+http://asmr4k.world:8080/9932081304/4200945603/355455
+#EXTINF:-1 tvg-id="DAZN6.pt" tvg-name="DAZN 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_6.png" group-title="Desporto",DAZN 6 HD
+http://asmr4k.world:8080/9932081304/4200945603/355456
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola
+http://asmr4k.world:8080/9932081304/4200945603/358691
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caça e Pesca HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CACA_PESCA.png" group-title="Desporto",Caça e Pesca HD
+http://asmr4k.world:8080/9932081304/4200945603/358702
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MOTORVISION.png" group-title="Desporto",Motorvision
+http://asmr4k.world:8080/9932081304/4200945603/358741
+#EXTINF:-1 tvg-id="Combate.pt" tvg-name="Combate" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/COMBATE.png" group-title="Desporto",Combate
+http://asmr4k.world:8080/9932081304/4200945603/443624
+#EXTINF:-1 tvg-id="Combate.pt" tvg-name="Combate HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/COMBATE.png" group-title="Desporto",Combate HD
+http://asmr4k.world:8080/9932081304/4200945603/443625
+#EXTINF:-1 tvg-id="Combate.pt" tvg-name="Combate FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/COMBATE.png" group-title="Desporto",Combate FHD
+http://asmr4k.world:8080/9932081304/4200945603/443626
+#EXTINF:-1 tvg-id="FightBox.pt" tvg-name="Fight Box HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FIGHT_BOX.png" group-title="Desporto",Fight Box HD
+http://asmr4k.world:8080/9932081304/4200945603/443627
+#EXTINF:-1 tvg-id="FightNetwork.pt" tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FIGHT_NETWORK.png" group-title="Desporto",Fight Network
+http://asmr4k.world:8080/9932081304/4200945603/443628
+#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV
+http://asmr4k.world:8080/9932081304/4200945603/358770
+#EXTINF:-1 tvg-id="WWE.pt" tvg-name="WWE HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/WWE.png" group-title="Desporto",WWE HD
+http://asmr4k.world:8080/9932081304/4200945603/443623
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top HD
+http://asmr4k.world:8080/9932081304/4200945603/358776
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition HD
+http://asmr4k.world:8080/9932081304/4200945603/358774
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion HD
+http://asmr4k.world:8080/9932081304/4200945603/358775
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action
+http://asmr4k.world:8080/9932081304/4200945603/358773
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood
+http://asmr4k.world:8080/9932081304/4200945603/358736
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN
+http://asmr4k.world:8080/9932081304/4200945603/358698
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White
+http://asmr4k.world:8080/9932081304/4200945603/358697
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies
+http://asmr4k.world:8080/9932081304/4200945603/358696
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical HD
+http://asmr4k.world:8080/9932081304/4200945603/358763
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_Q.png" group-title="Entretenimento",Canal Q
+http://asmr4k.world:8080/9932081304/4200945603/358706
+#EXTINF:-1 tvg-id="ZapViva.pt" tvg-name="Zap Viva" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ZAP_VIVA.png" group-title="Entretenimento",Zap Viva
+http://asmr4k.world:8080/9932081304/4200945603/358783
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic
+http://asmr4k.world:8080/9932081304/4200945603/358743
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História HD
+http://asmr4k.world:8080/9932081304/4200945603/358735
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia
+http://asmr4k.world:8080/9932081304/4200945603/358747
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery
+http://asmr4k.world:8080/9932081304/4200945603/358737
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel
+http://asmr4k.world:8080/9932081304/4200945603/358719
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito
+http://asmr4k.world:8080/9932081304/4200945603/358710
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV
+http://asmr4k.world:8080/9932081304/4200945603/358699
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K
+http://asmr4k.world:8080/9932081304/4200945603/358760
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha
+http://asmr4k.world:8080/9932081304/4200945603/358711
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova
+http://asmr4k.world:8080/9932081304/4200945603/358708

@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [HD] [C]
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909660
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [HD] [C]
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909661
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909662
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [SD] [D]
-http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663597
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [HD] [D]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663597
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870052
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909663
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [FHD] [C]
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [FHD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909664
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [HD] [D]
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909665
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663596
@@ -23,35 +23,35 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870051
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909666
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909667
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [SD] [D]
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909668
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [SD] [D]
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909669
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [SD] [D]
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663594
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [FHD] [B]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909671
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [FHD] [B]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909672
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [FHD] [B]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [FHD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909673
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909674
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [SD] [D]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663593
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1869993
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [HD] [D]
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663595
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [HD] [D]
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870050
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [FHD] [C]
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [FHD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909843
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_3.png" group-title="Notícias",RTP3 [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909844
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias [SD] [D]
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663592
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias [HD] [D]
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870040
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909837
@@ -65,12 +65,14 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870165
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870164
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909839
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [FHD] [B]
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909840
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663590
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870167
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [FHD] [B]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909841
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909842
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV [SD] [D]
@@ -97,7 +99,7 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663510
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870133
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FRANCE_24.png" group-title="Notícias",France 24 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870129
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FRANCE_24.png" group-title="Notícias",France 24 [HD] [D]
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FRANCE_24.png" group-title="Notícias",France 24 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870132
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FRANCE_24.png" group-title="Notícias",France 24 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870131
@@ -115,29 +117,29 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870206
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870004
 #EXTINF:-1 tvg-id="i24NEWS.fr" tvg-name="i24NEWS" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/I24NEWS.png" group-title="Notícias",i24NEWS [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870114
-#EXTINF:-1 tvg-id="i24NEWS.fr" tvg-name="i24NEWS" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/I24NEWS.png" group-title="Notícias",i24NEWS [HD] [D]
+#EXTINF:-1 tvg-id="i24NEWS.fr" tvg-name="i24NEWS" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/I24NEWS.png" group-title="Notícias",i24NEWS [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870113
 #EXTINF:-1 tvg-id="CGTNEurope.cn" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CGTN.png" group-title="Notícias",CGTN [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870171
-#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now [HD] [D]
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663528
 #EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910326
 #EXTINF:-1 tvg-id="NewsNow.pt" tvg-name="News Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NEWS_NOW.png" group-title="Notícias",News Now [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663474
-#EXTINF:-1 tvg-id="NewsNow.pt" tvg-name="News Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NEWS_NOW.png" group-title="Notícias",News Now [HD] [C]
+#EXTINF:-1 tvg-id="NewsNow.pt" tvg-name="News Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NEWS_NOW.png" group-title="Notícias",News Now [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870081
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663518
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870057
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [HD] [D]
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909687
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909688
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [HD] [D]
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663585
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [HD] [D]
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870069
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663581
@@ -161,11 +163,11 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870053
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870205
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663587
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [FHD] [D]
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909914
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [FHD] [D]
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909915
-#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo [HD] [D]
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663588
 #EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870123
@@ -173,11 +175,11 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870123
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910325
 #EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909675
-#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional [HD] [D]
+#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870013
 #EXTINF:-1 tvg-id="LocalVisaoTV.pt" tvg-name="Localvisão TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOCALVISÃO_TV.png" group-title="Generalistas",Localvisão TV [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870100
-#EXTINF:-1 tvg-id="RecordEuropa.pt" tvg-name="Record Europa" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_EUROPA.png" group-title="Generalistas",Record Europa [HD] [C]
+#EXTINF:-1 tvg-id="RecordEuropa.pt" tvg-name="Record Europa" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_EUROPA.png" group-title="Generalistas",Record Europa [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870058
 #EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910327
@@ -185,21 +187,21 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910327
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870003
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663491
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870035
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [SD] [D]
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909918
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909919
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [D]
-http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663490
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [C]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663490
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870034
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [C+]
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909922
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663483
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870033
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909924
@@ -213,117 +215,135 @@ http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870157
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663567
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870185
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [D]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909942
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV 1 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909943
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [HD] [D]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909944
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [D]
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663576
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870028
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [D]
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909945
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663482
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870032
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [C]
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909927
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663481
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870031
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [C+]
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909929
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663579
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870139
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [SD] [D]
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909951
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909952
 #EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870138
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [SD] [D]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909953
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663480
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [HD] [D]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870030
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909930
-#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [D]
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663473
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [D]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870029
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1717428
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663589
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870036
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909916
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [C+]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909917
 #EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870156
 #EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870155
 #EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870154
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [HD] [C]
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola [HD] [C]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870208
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/A_BOLA_TV.png" group-title="Desporto",A Bola TV [SD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909946
 #EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caça e Pesca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CACA_PESCA.png" group-title="Desporto",Caça e Pesca [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870174
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [HD] [D]
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663573
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MOTORVISION.png" group-title="Desporto",Motorvision [FHD] [C]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/909955
 #EXTINF:-1 tvg-id="WSport.pt" tvg-name="W Sport" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/W_SPORT.png" group-title="Desporto",W Sport [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1869984
-#EXTINF:-1 tvg-id="FightBox.pt" tvg-name="Fight Box" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FIGHT_BOX.png" group-title="Desporto",Fight Box [HD] [C]
+#EXTINF:-1 tvg-id="FightBox.pt" tvg-name="Fight Box" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FIGHT_BOX.png" group-title="Desporto",Fight Box [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663575
-#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [SD] [D]
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663475
 #EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1869996
-#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C]
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910128
-#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [D]
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910129
 #EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663477
-#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [HD] [D]
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1869998
-#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [FHD] [D]
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TV Cine Edition HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EDITION.png" group-title="Cinema e Séries",TV Cine Edition [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910130
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [HD] [D]
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663476
 #EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1869997
 #EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910132
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C]
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910133
 #EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663478
 #EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1869999
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [FHD] [C+]
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910134
 #EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910135
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [HD] [D]
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910138
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [C+]
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910139
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [HD] [D]
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663560
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [HD] [C]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870168
 #EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="Cine Mundo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CINE_MUNDO.png" group-title="Cinema e Séries",Cine Mundo [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910140
 #EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663549
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [HD] [D]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870204
 #EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [FHD] [C+]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910141
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [FHD] [C+]
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [FHD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910142
 #EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN [HD] [D]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663557
 #EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1870197
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN [HD] [D]
+http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/910154
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White [HD] [C]
 http://nex-premuim.com:80/ojyoni1mo4/fnm0teeik9/1663553

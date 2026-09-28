@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC [HD] [D]
+http://vlue.vip:80/live/0556640530/4569977543/778744.ts
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [SD] [D]
+http://vlue.vip:80/live/0556640530/4569977543/778767.ts
