@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/22
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/23
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/24
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/326
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/320
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SKY_NEWS.png" group-title="Notícias",Sky News
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/324
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FRANCE_24.png" group-title="Notícias",France 24
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/323
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BLOOMBERG TV.png" group-title="Notícias",Bloomberg
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/327
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ALJAZEERA.png" group-title="Notícias",Al Jazeera
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/330
+#EXTINF:-1 tvg-id="CGTNEurope.cn" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CGTN.png" group-title="Notícias",CGTN
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/335
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/72
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/73
+#EXTINF:-1 tvg-id="GloboNow.br" tvg-name="Globo Now FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO_NOW.png" group-title="Notícias",Globo Now FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/74
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RECORD_NEWS.png" group-title="Notícias",Record News
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/35
+#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ALMA_LUSA.png" group-title="Generalistas",Alma Lusa FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/299
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/69
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/70
+#EXTINF:-1 tvg-id="GloboPortugal.pt" tvg-name="Globo FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/GLOBO.png" group-title="Generalistas",Globo FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/71
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/316
+#EXTINF:-1 tvg-id="TVIInternacional.pt" tvg-name="TVI Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_INTERNACIONAL.png" group-title="Generalistas",TVI Internacional
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/348
+#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/318
+#EXTINF:-1 tvg-id="LocalVisaoTV.pt" tvg-name="Localvisão TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOCALVISÃO_TV.png" group-title="Generalistas",Localvisão TV HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/290
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/66
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/67
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/68
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="TV Galicia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_GALICIA.png" group-title="Generalistas",TV Galicia
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/322
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV5_MONDE.png" group-title="Generalistas",TV5 Monde
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/321
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/260
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/261
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="Discovery Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISCOVERY_CHANNEL.png" group-title="Documentários",Discovery Channel FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/262
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/266
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/267
+#EXTINF:-1 tvg-id="NationalGeographic.pt" tvg-name="National Geographic FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO.png" group-title="Documentários",National Geographic FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/268
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/291
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/292
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/293
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/294
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/295
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/259
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/264
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/265
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/296
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/297
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/257
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/258
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_TOP.png" group-title="Música",MCM Top
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/303
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_POP.png" group-title="Música",MCM Pop
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/302
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/300
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/310
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/309
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/VH1.png" group-title="Música",VH1
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/312
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MEZZO.png" group-title="Música",Mezzo
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/308
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV.png" group-title="Música",MTV
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/304
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV.png" group-title="Música",MTV FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/305
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/277
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/278
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/38
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha HD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/39
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/40
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/285
+#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/253
+#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros TV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros TV FHD
+http://piksmain0826.xyz:8080/miguelseabra/tg4lXS6AdX/254

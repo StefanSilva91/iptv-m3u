@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [D]
-http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/118453
-#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [FHD] [D]
-http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/1838349
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [D]
-http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/107437
-#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [FHD] [D]
-http://line.marovisv2.xyz:80/a4000368a3/91b94bf177/1829495
