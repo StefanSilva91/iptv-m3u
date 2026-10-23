@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [FHD] [D]
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [FHD] [C]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40222
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [FHD] [C+]
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [FHD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40221
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [FHD] [C+]
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [HD] [C]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40214
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [D]
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40257
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40261
@@ -13,11 +13,9 @@ http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40261
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40262
 #EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNBC.png" group-title="Notícias",CNBC [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40189
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40223
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40216
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores [HD] [C]
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores [FHD] [B]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40219
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40217
@@ -25,119 +23,29 @@ http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40217
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40174
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_AFRICA.png" group-title="Generalistas",RTP África [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40218
-#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ALMA_LUSA.png" group-title="Generalistas",Alma Lusa [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40234
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [FHD] [D]
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-name="SIC Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_INTERNACIONAL.png" group-title="Generalistas",SIC Internacional [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40173
 #EXTINF:-1 tvg-id="Opto.pt" tvg-name="Opto" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/OPTO.png" group-title="Generalistas",Opto [FHD] [C+]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40176
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [B]
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [C+]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40285
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [FHD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40284
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40299
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40283
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40289
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [FHD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40281
-#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40280
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NBA_TV.png" group-title="Desporto",NBA TV [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40178
-#EXTINF:-1 tvg-id="WSport.pt" tvg-name="W Sport" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/W_SPORT.png" group-title="Desporto",W Sport [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40276
-#EXTINF:-1 tvg-id="Combate.pt" tvg-name="Combate" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/COMBATE.png" group-title="Desporto",Combate [FHD] [C+]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40291
-#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KOMBAT_SPORT.png" group-title="Desporto",Kombat Sport [HD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40183
-#EXTINF:-1 tvg-id="Toros.pt" tvg-name="Toros" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TOROS.png" group-title="Desporto",Toros [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40167
-#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TV Cine Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_TOP.png" group-title="Cinema e Séries",TV Cine Top [FHD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40236
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TV Cine Emotion" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_EMOTION.png" group-title="Cinema e Séries",TV Cine Emotion [FHD] [C+]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40237
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TV Cine Action" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_CINE_ACTION.png" group-title="Cinema e Séries",TV Cine Action [HD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40239
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [FHD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40249
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC.png" group-title="Cinema e Séries",AMC [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40256
-#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN.png" group-title="Cinema e Séries",AXN [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40255
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_WHITE.png" group-title="Cinema e Séries",AXN White [FHD] [C+]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40253
-#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [HD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40245
-#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [FHD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40242
-#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [FHD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40244
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40243
-#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40199
-#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [FHD] [C+]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40254
-#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40241
-#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SYFY.png" group-title="Cinema e Séries",Syfy [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40240
-#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [FHD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40247
-#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-name="SIC Novelas" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOVELAS.png" group-title="Entretenimento",SIC Novelas [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40171
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40205
-#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild [FHD] [C+]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40200
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ODISSEIA.png" group-title="Documentários",Odisseia [FHD] [C+]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40224
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TLC.png" group-title="Documentários",TLC [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40210
-#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery [FHD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40193
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVEL_CHANNEL.png" group-title="Documentários",Travel Channel [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40209
-#EXTINF:-1 tvg-id="Travelxp.pt" tvg-name="Travelxp" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRAVELXP.png" group-title="Documentários",Travelxp [UHD] [B]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40208
-#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40307
-#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [HD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40310
-#EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda [FHD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40311
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40301
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40313
-#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K [HD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40212
-#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40233
-#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40300
 #EXTINF:-1 tvg-id="MTV00s.pt" tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV_00S.png" group-title="Música",MTV 00s [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40270
-#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_TOP.png" group-title="Música",MCM Top [SD] [D]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40271
-#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban [FHD] [C+]
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_URBAN.png" group-title="Música",Trace Urban [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40264
-#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [SD] [D]
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [HD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40265
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MEZZO.png" group-title="Música",Mezzo [FHD] [C]
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MEZZO.png" group-title="Música",Mezzo [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40181
-#EXTINF:-1 tvg-id="MTV.pt" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MTV.png" group-title="Música",MTV [HD] [C]
-http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40268
-#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha [HD] [C]
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40229
 #EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher [FHD] [B]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40246
 #EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FASHION_TV.png" group-title="Lifestyle",Fashion TV [SD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40185
-#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova [SD] [D]
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova [HD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40230
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [HD] [C]
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [FHD] [D]
 http://hola.policyshield.org:80/SaamiPaunovici/xNhSHU8Q/40303
