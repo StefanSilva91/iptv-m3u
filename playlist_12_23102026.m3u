@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3013
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_1.png" group-title="TV",RTP1 [FHD] [B]
+http://55213711.vipma.site/E73M47V9/6074247/521709
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_2.png" group-title="TV",RTP2 [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3014
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3016
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC.png" group-title="TV",SIC [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3065
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3017
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521787
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI.png" group-title="TV",TVI [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521789
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOTICIAS.png" group-title="Notícias",SIC Notícias [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3020
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3019
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CNN_PORTUGAL.png" group-title="Notícias",CNN Portugal [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/171187
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CMTV.png" group-title="Notícias",CMTV [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3021
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ARTV.png" group-title="Notícias",ARTV [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/168077
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3027
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EURONEWS.png" group-title="Notícias",Euronews [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521641
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BLOOMBERG TV.png" group-title="Notícias",Bloomberg [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3048
+#EXTINF:-1 tvg-id="NewsNow.pt" tvg-name="News Now FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NEWS_NOW.png" group-title="Notícias",News Now [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/742581
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/3025
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PORTO_CANAL.png" group-title="Generalistas",Porto Canal [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/521699
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3032
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MEMORIA.png" group-title="Generalistas",RTP Memória [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521707
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_ACORES.png" group-title="Generalistas",RTP Açores [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521703
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3023
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/RTP_MADEIRA.png" group-title="Generalistas",RTP Madeira [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521705
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521599
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_11.png" group-title="Generalistas",Canal 11 [FHD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3097
+#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV Internacional" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TCV_INTERNACIONAL.png" group-title="Generalistas",TCV Internacional [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/704497
+#EXTINF:-1 tvg-id="TVRecord.br" tvg-name="TV Record HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_RECORD.png" group-title="Generalistas",TV Record [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521767
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="TV Galicia HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV_GALICIA.png" group-title="Generalistas",TV Galicia [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3058
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 Monde HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TV5_MONDE.png" group-title="Generalistas",TV5 Monde [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/3028
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [B]
+http://55213711.vipma.site/E73M47V9/6074247/1010681
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/3099
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/521723
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [B]
+http://55213711.vipma.site/E73M47V9/6074247/3100
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3101
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [B]
+http://55213711.vipma.site/E73M47V9/6074247/521629
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 [FHD] [B]
+http://55213711.vipma.site/E73M47V9/6074247/521631
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521593
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521595
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",BTV [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3111
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORTING_TV.png" group-title="Desporto",Sporting TV [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521731
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/3102
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_1.png" group-title="Desporto",Eurosport 1 [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3115
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/EUROSPORT_2.png" group-title="Desporto",Eurosport 2 [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521645
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3098
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521721
+#EXTINF:-1 tvg-id="DAZN6.pt" tvg-name="DAZN 6 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_6.png" group-title="Desporto",DAZN 6 [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521639
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3114
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-name="Fuel TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/FUEL_TV.png" group-title="Desporto",Fuel TV [FHD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521649
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MOTORVISION.png" group-title="Desporto",Motorvision [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3120
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KOMBAT_SPORT.png" group-title="Desporto",Kombat Sport [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3113
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HOLLYWOOD.png" group-title="Cinema e Séries",Hollywood [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3194
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521733
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/521735
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3182
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521747
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_LIFE.png" group-title="Cinema e Séries",Star Life [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521745
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521739
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3181
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521741
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521743
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521577
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521581
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_CRIME.png" group-title="Cinema e Séries",AMC Crime [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521579
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AXN_MOVIES.png" group-title="Cinema e Séries",AXN Movies [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3191
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_MOVIES.png" group-title="Cinema e Séries",Star Movies [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521749
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NOS_STUDIOS.png" group-title="Entretenimento",NOS Studios [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3193
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521719
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_RADICAL.png" group-title="Entretenimento",SIC Radical [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3054
+#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-name="SIC Novelas HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_NOVELAS.png" group-title="Entretenimento",SIC Novelas [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/1236568
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3069
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_REALITY.png" group-title="Entretenimento",TVI Reality [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3072
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="E! Entertainment HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/E_ENTERTAINMENT.png" group-title="Entretenimento",E! Entertainment [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521627
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_FICÇÃO.png" group-title="Entretenimento",TVI Ficção [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3033
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TVI_FICÇÃO.png" group-title="Entretenimento",TVI Ficção [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521791
+#EXTINF:-1 tvg-id="NationalGeographicWild.pt" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NAT_GEO_WILD.png" group-title="Documentários",Nat Geo Wild [FHD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3155
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521653
+#EXTINF:-1 tvg-id="Historia.pt" tvg-name="História HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/HISTORIA.png" group-title="Documentários",História [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3158
+#EXTINF:-1 tvg-id="ID.pt" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/ID.png" group-title="Documentários",Investigation Discovery [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521655
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521623
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_CHANNEL.png" group-title="Crianças",Disney Channel [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3173
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3172
+#EXTINF:-1 tvg-id="DisneyJunior2.pt" tvg-name="Disney Junior HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DISNEY_JUNIOR.png" group-title="Crianças",Disney Junior [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521625
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521607
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOON_NETWORK.png" group-title="Crianças",Cartoon Network [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3177
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521611
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CARTOONITO.png" group-title="Crianças",Cartoonito [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521609
+#EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521603
+#EXTINF:-1 tvg-id="CanalPanda.pt" tvg-name="Canal Panda" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANAL_PANDA.png" group-title="Crianças",Canal Panda [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3176
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521689
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/NICKELODEON.png" group-title="Crianças",Nickelodeon [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3169
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521589
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BABY_TV.png" group-title="Crianças",Baby TV [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3174
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521713
+#EXTINF:-1 tvg-id="SICK.pt" tvg-name="SIC K HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_K.png" group-title="Crianças",SIC K [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3052
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521591
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="Biggs" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BIGGS.png" group-title="Crianças",Biggs [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/3175
+#EXTINF:-1 tvg-id="LollyKids.pt" tvg-name="Lolly Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOLLY_KIDS.png" group-title="Crianças",Lolly Kids [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521781
+#EXTINF:-1 tvg-id="LollyKids.pt" tvg-name="Lolly Kids FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/LOLLY_KIDS.png" group-title="Crianças",Lolly Kids [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521779
+#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521695
+#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/PANDA_KIDS.png" group-title="Crianças",Panda Kids [HD] [C]
+http://55213711.vipma.site/E73M47V9/6074247/521693
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/MCM_TOP.png" group-title="Música",MCM Top [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521665
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3148
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521573
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AFRO_MUSIC.png" group-title="Música",Afro Music [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/413433
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/3149
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/TRACE_TOCA.png" group-title="Música",Trace Toca [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/413435
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/VH1.png" group-title="Música",VH1 [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3144
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/VH1.png" group-title="Música",VH1 [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/413427
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/24KITCHEN.png" group-title="Lifestyle",24Kitchen [HD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3049
+#EXTINF:-1 tvg-id="CasaeCozinha.pt" tvg-name="Casa e Cozinha FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CASA_E_COZINHA.png" group-title="Lifestyle",Casa e Cozinha [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521769
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521715
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SIC_MULHER.png" group-title="Lifestyle",SIC Mulher [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/3053
+#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-name="Canção Nova HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/CANCAO_NOVA.png" group-title="Religião",Canção Nova [SD] [D]
+http://55213711.vipma.site/E73M47V9/6074247/521597
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/KURIAKOS_TV.png" group-title="Religião",Kuriakos TV [FHD] [C+]
+http://55213711.vipma.site/E73M47V9/6074247/521661

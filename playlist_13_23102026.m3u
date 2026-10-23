@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CHANNEL.png" group-title="Cinema e Séries",Star Channel [FHD] [D]
+http://55pvhpj6.upxdsx.xyz:80/play/Octavianyotros/MWW7tHrEXKBS/1296280.ts
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_COMEDY.png" group-title="Cinema e Séries",Star Comedy [HD] [D]
+http://55pvhpj6.upxdsx.xyz:80/play/Octavianyotros/MWW7tHrEXKBS/1296310.ts
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/STAR_CRIME.png" group-title="Cinema e Séries",Star Crime [HD] [D]
+http://55pvhpj6.upxdsx.xyz:80/play/Octavianyotros/MWW7tHrEXKBS/1307186.ts
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-name="AMC Break FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/AMC_BREAK.png" group-title="Cinema e Séries",AMC Break [FHD] [C+]
+http://55pvhpj6.upxdsx.xyz:80/play/Octavianyotros/MWW7tHrEXKBS/1287373.ts
