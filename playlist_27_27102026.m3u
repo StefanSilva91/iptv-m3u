@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [FHD] [D]
+http://germanyservers2.net/live/CQEDrjtw/yqmbdDvc/d6a7bce4-8b00-442b-a854-e8ab04e596b7.m3u
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 [FHD] [D]
+http://germanyservers2.net/live/CQEDrjtw/yqmbdDvc/accba660-4d0e-4d0a-a13e-e42f9ca243f7.m3u

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [C]
+http://germanyservers2.net/live/qzkFCr2H/DvpAieUE/1d34b1ce-5363-4ebb-a7e4-2c482210abfa.m3u
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [C+]
+http://germanyservers2.net/live/qzkFCr2H/DvpAieUE/bf4e83b7-53e6-4401-a995-06cf08f9b92f.m3u

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C+]
+http://55pvhpj6.upxdsx.xyz:80/play/Octavianyotros/MWW7tHrEXKBS/1296283.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C+]
+http://55pvhpj6.upxdsx.xyz:80/play/Octavianyotros/MWW7tHrEXKBS/1302052.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [B]
+http://55pvhpj6.upxdsx.xyz:80/play/Octavianyotros/MWW7tHrEXKBS/1305191.ts
