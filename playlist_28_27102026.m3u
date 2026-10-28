@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [D]
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [C+]
 http://4smarts.xyz:80/953399454747329/7312914625/1030811
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [D]
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [C]
 http://4smarts.xyz:80/953399454747329/7312914625/1030810
-#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [D]
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [C]
 http://4smarts.xyz:80/953399454747329/7312914625/763975
-#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [D]
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [C+]
 http://4smarts.xyz:80/953399454747329/7312914625/942697
-#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [D]
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [C]
 http://4smarts.xyz:80/953399454747329/7312914625/1030813
-#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [D]
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [C+]
 http://4smarts.xyz:80/953399454747329/7312914625/763977
-#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [D]
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [C]
 http://4smarts.xyz:80/953399454747329/7312914625/1030815

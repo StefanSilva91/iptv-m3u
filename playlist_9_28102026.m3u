@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [D]
+http://54709934.ultapp.pro/267844735795412/12023027/1363449
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C]
+http://54709934.ultapp.pro/267844735795412/12023027/1010681
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [C]
+http://54709934.ultapp.pro/267844735795412/12023027/3099
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 [FHD] [D]
+http://54709934.ultapp.pro/267844735795412/12023027/1248000
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [D]
+http://54709934.ultapp.pro/267844735795412/12023027/3100
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [C]
+http://54709934.ultapp.pro/267844735795412/12023027/3102
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [FHD] [B]
+http://54709934.ultapp.pro/267844735795412/12023027/521725
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [HD] [C]
+http://54709934.ultapp.pro/267844735795412/12023027/3103
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 [FHD] [B]
+http://54709934.ultapp.pro/267844735795412/12023027/773065
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
+http://54709934.ultapp.pro/267844735795412/12023027/3098
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
+http://54709934.ultapp.pro/267844735795412/12023027/521721
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [D]
+http://54709934.ultapp.pro/267844735795412/12023027/521593
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [D]
+http://54709934.ultapp.pro/267844735795412/12023027/521595
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 [FHD] [B]
+http://54709934.ultapp.pro/267844735795412/12023027/521629
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 [FHD] [B]
+http://54709934.ultapp.pro/267844735795412/12023027/521631
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [C]
+http://54709934.ultapp.pro/267844735795412/12023027/521633
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 [FHD] [B]
+http://54709934.ultapp.pro/267844735795412/12023027/521635
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 FHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 [FHD] [C]
+http://54709934.ultapp.pro/267844735795412/12023027/521637
