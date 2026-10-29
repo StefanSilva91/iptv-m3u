@@ -1,25 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [HD] [C]
 http://dmstream.shop:80/04992546/10610782/813794
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 [FHD] [C+]
 http://dmstream.shop:80/04992546/10610782/813793
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 [HD] [C]
 http://dmstream.shop:80/04992546/10610782/813792
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [D]
 http://dmstream.shop:80/04992546/10610782/813791
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [HD] [D]
 http://dmstream.shop:80/04992546/10610782/813790
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [FHD] [B]
 http://dmstream.shop:80/04992546/10610782/813796
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV [HD] [C]
 http://dmstream.shop:80/04992546/10610782/813806
-#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1
-http://dmstream.shop:80/04992546/10610782/813804
-#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2
-http://dmstream.shop:80/04992546/10610782/813803
-#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 [FHD] [B]
 http://dmstream.shop:80/04992546/10610782/813802
-#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4
-http://dmstream.shop:80/04992546/10610782/813801
-#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5
-http://dmstream.shop:80/04992546/10610782/813800
