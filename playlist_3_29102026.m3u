@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812987
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250585
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812988
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250584
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812989
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250583
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812990
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250582
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812991
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250581
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/632985
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_7.png" group-title="Desporto",Sport TV 7 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/1070148
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250586
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/722015
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/652403
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/652404
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250658
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812992
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250642
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812993
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250641
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812994
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250640
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812995
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250639
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 HD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/812996
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 UHD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 UHD
+http://line.dndnscloud.ru:80/990fc8f8fc/527ab46645e2/250638
