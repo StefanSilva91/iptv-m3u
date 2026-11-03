@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 [FHD] [C]
-http://nocable.cc:8080/Gizvid252@giz.com/1234@4321/266567
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 [FHD] [D]
-http://nocable.cc:8080/Gizvid252@giz.com/1234@4321/266559
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 [FHD] [D]
-http://nocable.cc:8080/Gizvid252@giz.com/1234@4321/266558
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ [HD] [D]
-http://nocable.cc:8080/Gizvid252@giz.com/1234@4321/266651
