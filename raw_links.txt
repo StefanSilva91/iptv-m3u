@@ -1,6 +1,3 @@
-playlist_20 - 1_09112026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_20 - 1_09112026.m3u
-
 playlist_23_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_23_09112026.m3u
 
@@ -10,32 +7,74 @@ https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_24 - 1_09
 playlist_26_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_26_09112026.m3u
 
+playlist_30_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_30_11112026.m3u
+
 playlist_34_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_34_09112026.m3u
-
-playlist_35_09112026.m3u
-https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_35_09112026.m3u
 
 playlist_40_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_40_09112026.m3u
 
+playlist_41_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_41_11112026.m3u
+
 playlist_42_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_42_09112026.m3u
+
+playlist_44_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_44_11112026.m3u
 
 playlist_46_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_46_09112026.m3u
 
+playlist_49_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_49_11112026.m3u
+
+playlist_4_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_4_11112026.m3u
+
+playlist_50_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_50_11112026.m3u
+
+playlist_51_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_51_11112026.m3u
+
 playlist_52_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_52_09112026.m3u
+
+playlist_52_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_52_11112026.m3u
+
+playlist_53_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_53_11112026.m3u
 
 playlist_54_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_54_09112026.m3u
 
+playlist_54_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_54_11112026.m3u
+
 playlist_56 - 1_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_56 - 1_09112026.m3u
 
+playlist_56_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_56_11112026.m3u
+
+playlist_59_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_59_11112026.m3u
+
+playlist_5_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_5_11112026.m3u
+
 playlist_60_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_60_09112026.m3u
+
+playlist_61_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_61_11112026.m3u
+
+playlist_64_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_64_11112026.m3u
 
 playlist_65_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_65_09112026.m3u
@@ -43,8 +82,41 @@ https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_65_091120
 playlist_67_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_67_09112026.m3u
 
+playlist_70_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_70_11112026.m3u
+
+playlist_74_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_74_11112026.m3u
+
+playlist_78_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_78_11112026.m3u
+
+playlist_7_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_7_11112026.m3u
+
+playlist_80_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_80_11112026.m3u
+
+playlist_84_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_84_11112026.m3u
+
 playlist_86_09112026.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_86_09112026.m3u
+
+playlist_87_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_87_11112026.m3u
+
+playlist_90_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_90_11112026.m3u
+
+playlist_94_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_94_11112026.m3u
+
+playlist_98_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_98_11112026.m3u
+
+playlist_9_11112026.m3u
+https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/playlist_9_11112026.m3u
 
 portugal_tv_1.m3u
 https://raw.githubusercontent.com/StefanSilva91/iptv-m3u/main/portugal_tv_1.m3u

@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474436.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_1.png" group-title="Desporto",Sport TV 1 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474437.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474438.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_2.png" group-title="Desporto",Sport TV 2 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474439.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474440.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_3.png" group-title="Desporto",Sport TV 3 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474441.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474442.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474443.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/472528.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_4.png" group-title="Desporto",Sport TV 4 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/472529.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474444.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474445.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/472509.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_5.png" group-title="Desporto",Sport TV 5 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/472510.ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474446.ts
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_6.png" group-title="Desporto",Sport TV 6 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474447.ts
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+ HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/SPORT_TV_PLUS.png" group-title="Desporto",Sport TV+ HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474435.ts
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/BTV.png" group-title="Desporto",Benfica TV HD HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474461.ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474448.ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_1.png" group-title="Desporto",DAZN 1 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474449.ts
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474450.ts
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_2.png" group-title="Desporto",DAZN 2 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474451.ts
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474452.ts
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_3.png" group-title="Desporto",DAZN 3 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474453.ts
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 4K" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 4K
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474454.ts
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_4.png" group-title="Desporto",DAZN 4 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474455.ts
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="DAZN 5 HD" tvg-logo="https://raw.githubusercontent.com/StefanSilva91/iptv-logos/main/DAZN_5.png" group-title="Desporto",DAZN 5 HD
+#EXTVLCOPT:network-caching=300
+http://h5n.co/tv/84652385/276401460282/474456.ts
